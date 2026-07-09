@@ -1,0 +1,744 @@
+{
+  "datasets": [
+    {
+      "name": "properties_analysis",
+      "displayName": "Properties Analysis",
+      "queryLines": [
+        "SELECT\n",
+        "  *\n",
+        "FROM\n",
+        "  real_estate_dev.silver.properties"
+      ],
+      "columns": [
+        {
+          "displayName": "Is Sold",
+          "description": "Flag indicating if property is sold",
+          "expression": "CASE WHEN `status` = 'Sold' THEN 1 ELSE 0 END"
+        }
+      ],
+      "catalog": "real_estate_dev",
+      "schema": "silver"
+    }
+  ],
+  "pages": [
+    {
+      "name": "b883e85b",
+      "displayName": "page 1",
+      "layout": [
+        {
+          "widget": {
+            "name": "total_properties",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "count(*)",
+                      "expression": "COUNT(`*`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "Total Properties",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "count(*)",
+                  "style": {
+                    "fontSize": 32,
+                    "bold": true
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 3,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "avg_listing_price",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "avg(listing_price)",
+                      "expression": "AVG(`listing_price`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "Avg Listing Price",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "avg(listing_price)",
+                  "format": {
+                    "type": "number-currency",
+                    "currencyCode": "USD",
+                    "abbreviation": "compact",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 0
+                    }
+                  },
+                  "style": {
+                    "fontSize": 32,
+                    "bold": true
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 2,
+            "y": 3,
+            "width": 3,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "sold_properties",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "sum(Is Sold)",
+                      "expression": "SUM(`Is Sold`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "Sold Properties",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "sum(Is Sold)",
+                  "format": {
+                    "type": "number-plain",
+                    "abbreviation": "compact",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 0
+                    }
+                  },
+                  "style": {
+                    "fontSize": 32,
+                    "bold": true,
+                    "color": "#2E7D32"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 5,
+            "y": 3,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "avg_days_market",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "avg(days_on_market)",
+                      "expression": "AVG(`days_on_market`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "Avg Days on Market",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "avg(days_on_market)",
+                  "format": {
+                    "type": "number-plain",
+                    "abbreviation": "none",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 0
+                    }
+                  },
+                  "style": {
+                    "fontSize": 32,
+                    "bold": true
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 7,
+            "y": 3,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "avg_sqft",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "avg(square_feet)",
+                      "expression": "AVG(`square_feet`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "Avg Square Feet",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "avg(square_feet)",
+                  "format": {
+                    "type": "number-plain",
+                    "abbreviation": "compact",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 0
+                    }
+                  },
+                  "formatTemplate": "{{ @formatted }} sqft",
+                  "style": {
+                    "fontSize": 32,
+                    "bold": true
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 9,
+            "y": 3,
+            "width": 3,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "properties_by_type",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "property_type",
+                      "expression": "`property_type`"
+                    },
+                    {
+                      "name": "count(*)",
+                      "expression": "COUNT(`*`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "Properties by Type",
+                "showTitle": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "property_type",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "count(*)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 6,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "status_distribution",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "count(*)",
+                      "expression": "COUNT(`*`)"
+                    },
+                    {
+                      "name": "status",
+                      "expression": "`status`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "Properties by Status",
+                "showTitle": true
+              },
+              "widgetType": "pie",
+              "encodings": {
+                "angle": {
+                  "fieldName": "count(*)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "color": {
+                  "fieldName": "status",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 6,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "price_by_type",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "property_type",
+                      "expression": "`property_type`"
+                    },
+                    {
+                      "name": "avg(listing_price)",
+                      "expression": "AVG(`listing_price`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "Avg Price by Property Type",
+                "showTitle": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "property_type",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "avg(listing_price)",
+                  "format": {
+                    "type": "number-currency",
+                    "currencyCode": "USD",
+                    "abbreviation": "compact",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 0
+                    }
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 12,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "properties_by_bedrooms",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "bedrooms",
+                      "expression": "`bedrooms`"
+                    },
+                    {
+                      "name": "count(*)",
+                      "expression": "COUNT(`*`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "Properties by Bedrooms",
+                "showTitle": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "bedrooms",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "count(*)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 12,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "price_trend",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "monthly(list_date)",
+                      "expression": "DATE_TRUNC(\"MONTH\", `list_date`)"
+                    },
+                    {
+                      "name": "avg(listing_price)",
+                      "expression": "AVG(`listing_price`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "Listing Price Trend by Month",
+                "showTitle": true
+              },
+              "widgetType": "line",
+              "encodings": {
+                "x": {
+                  "fieldName": "monthly(list_date)",
+                  "scale": {
+                    "type": "temporal"
+                  }
+                },
+                "y": {
+                  "fieldName": "avg(listing_price)",
+                  "format": {
+                    "type": "number-currency",
+                    "currencyCode": "USD",
+                    "abbreviation": "compact",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 0
+                    }
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 18,
+            "width": 12,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "filter_property_type",
+            "queries": [
+              {
+                "name": "dashboards/01f17bd6bb231bab85595f72f5c7dc8d/datasets/01f17bd8a07011fda9dab7feffde6ea5_property_type",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "property_type",
+                      "expression": "`property_type`"
+                    },
+                    {
+                      "name": "property_type_associativity",
+                      "expression": "COUNT_IF(`associative_filter_predicate_group`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "scale": {
+                "type": "categorical"
+              },
+              "frame": {
+                "title": "Property Type",
+                "showTitle": true
+              },
+              "widgetType": "filter-multi-select",
+              "encodings": {
+                "fields": [
+                  {
+                    "fieldName": "property_type",
+                    "queryName": "dashboards/01f17bd6bb231bab85595f72f5c7dc8d/datasets/01f17bd8a07011fda9dab7feffde6ea5_property_type"
+                  }
+                ]
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 4,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "filter_status",
+            "queries": [
+              {
+                "name": "dashboards/01f17bd6bb231bab85595f72f5c7dc8d/datasets/01f17bd8a07011fda9dab7feffde6ea5_status",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "status",
+                      "expression": "`status`"
+                    },
+                    {
+                      "name": "status_associativity",
+                      "expression": "COUNT_IF(`associative_filter_predicate_group`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "scale": {
+                "type": "categorical"
+              },
+              "frame": {
+                "title": "Status",
+                "showTitle": true
+              },
+              "widgetType": "filter-multi-select",
+              "encodings": {
+                "fields": [
+                  {
+                    "fieldName": "status",
+                    "queryName": "dashboards/01f17bd6bb231bab85595f72f5c7dc8d/datasets/01f17bd8a07011fda9dab7feffde6ea5_status"
+                  }
+                ]
+              }
+            }
+          },
+          "position": {
+            "x": 4,
+            "y": 0,
+            "width": 4,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "filter_bedrooms",
+            "queries": [
+              {
+                "name": "dashboards/01f17bd6bb231bab85595f72f5c7dc8d/datasets/01f17bd8a07011fda9dab7feffde6ea5_bedrooms",
+                "query": {
+                  "datasetName": "properties_analysis",
+                  "fields": [
+                    {
+                      "name": "bedrooms",
+                      "expression": "`bedrooms`"
+                    },
+                    {
+                      "name": "bedrooms_associativity",
+                      "expression": "COUNT_IF(`associative_filter_predicate_group`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "scale": {
+                "type": "categorical"
+              },
+              "frame": {
+                "title": "Bedrooms",
+                "showTitle": true
+              },
+              "widgetType": "filter-multi-select",
+              "encodings": {
+                "fields": [
+                  {
+                    "fieldName": "bedrooms",
+                    "queryName": "dashboards/01f17bd6bb231bab85595f72f5c7dc8d/datasets/01f17bd8a07011fda9dab7feffde6ea5_bedrooms"
+                  }
+                ]
+              }
+            }
+          },
+          "position": {
+            "x": 8,
+            "y": 0,
+            "width": 4,
+            "height": 3
+          }
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"
+    },
+    "applyModeEnabled": false
+  }
+}
