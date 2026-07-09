@@ -1,6 +1,3 @@
-# real_estate_insights
-
-
 # Synthetic Real Estate Dataset — Databricks Data Engineering Project
 
 Fully synthetic data (no real listings/people) built for practicing a
