@@ -1,0 +1,27 @@
+issue_type,column,row_count
+null_value,bedrooms,1200
+null_value,bathrooms,1200
+null_value,year_built,800
+null_value,hoa_fee,1600
+null_value,agent_id,600
+null_value,listing_price,400
+null_value,square_feet,800
+inconsistent_categorical_casing,property_type,3200
+negative_value,bedrooms,400
+zero_value_invalid,square_feet,400
+future_year_invalid,year_built,320
+negative_value,listing_price,320
+currency_formatted_string_in_numeric_col,listing_price,2000
+inconsistent_date_format_MM_DD_YYYY,list_date,1200
+inconsistent_date_format_DD_Mon_YYYY,list_date,1175
+extra_whitespace,property_type,1600
+mixed_boolean_representation,has_pool,6000
+mixed_boolean_representation,has_basement,6000
+orphaned_foreign_key,agent_id,400
+orphaned_foreign_key,location_id,400
+exact_duplicate_rows,ALL_COLUMNS,800
+duplicate_id_conflicting_values,"property_id (+ listing_price, status)",400
+malformed_email,email,48
+inconsistent_phone_format,phone_number,40
+out_of_range_value,rating,24
+exact_duplicate_rows,ALL_COLUMNS (agents),24

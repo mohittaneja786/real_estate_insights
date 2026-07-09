@@ -1,0 +1,825 @@
+agent_id,first_name,last_name,email,phone_number,agency_name,years_experience,rating,hire_date
+AG00908,Alyssa,Dodson,yolandatorres@example.com,3617438124,Century21,28,4.6,2014-12-31
+AG02452,Jason,Nelson,spencertracey@example.org,(290)602-3480,Keller Williams,0,2.9,2012-12-11
+AG01616,Cory,Smith,mary72@example.com,00158264665165636,Compass,26,3.5,2012-01-04
+AG01120,Stacie,Wong,ashlee45@example.org,278.618.7830,RE/MAX,19,4.3,2017-01-06
+AG00753,Tammy,Hartman,monique28@example.com,(676)615-5846x232,Sotheby's International,21,4.7,2021-01-24
+AG01447,Samantha,Booker,cperez@example.com,126226435700024,Compass,7,3.9,2016-04-21
+AG01589,Joel,Berry,Joel.Berry@@invalid,001-779-997-1387,Compass,20,2.7,2020-03-01
+AG00149,Elizabeth,Lee,yford@example.net,001-964-875-3267x84525,RE/MAX,1,3.1,2022-09-17
+AG01823,Thomas,Combs,lukebrown@example.org,693.505.8785x30147,Independent,11,3.7,2026-02-09
+AG02022,Thomas,Obrien,craigbennett@example.org,569.316.2359x78625,Century21,9,3.9,2025-08-14
+AG02982,Veronica,Santiago,edwardsleslie@example.net,001-418-485-6987x352,Keller Williams,24,4.4,2024-11-10
+AG00325,Jennifer,Mendoza,joseph16@example.org,+1-308-211-3049x30925,Sotheby's International,6,4.8,2025-05-09
+AG01780,Robert,Stafford,Robert.Stafford@@invalid,001-817-382-2863x5499,RE/MAX,33,4.2,2017-10-24
+AG00329,Melissa,Martin,iholmes@example.org,7624186185935,Redfin,17,4.0,2020-05-24
+AG01092,Kevin,Walker,bobby40@example.org,(477)498-4227x20866,Century21,15,3.2,2014-11-25
+AG00713,Carla,Atkinson,campbellmichael@example.com,627.361.8264x30048,Compass,20,4.3,2018-08-23
+AG01144,Hannah,Adams,elizabethmartinez@example.net,(734)612-3226,RE/MAX,8,2.8,2019-02-13
+AG00965,John,Hayden,jesse96@example.net,(671)299-1827x73299,Redfin,15,4.1,2019-12-09
+AG01282,Amy,Mccann,christineowens@example.com,001-485-218-0397x38227,Berkshire Hathaway HomeServices,31,4.5,2014-05-19
+AG01324,Hunter,Newman,amendoza@example.org,9762448173,Century21,29,3.3,2024-09-08
+AG02461,Donna,Aguilar,egreen@example.com,524.880.3115,Keller Williams,12,4.5,2014-09-06
+AG01683,Jose,Wood,Jose.Wood@@invalid,+1-345-595-9792x27111,Compass,25,3.7,2012-01-14
+AG02562,Patrick,Robles,achambers@example.com,0012314662600563,Compass,28,3.6,2020-04-27
+AG02880,Kelly,Jones,priceallison@example.org,(920)564-4343x778,eXp Realty,0,3.7,2023-07-02
+AG02088,Kenneth,Nunez,elong@example.org,254-279-5334,Berkshire Hathaway HomeServices,4,3.1,2014-05-27
+AG01287,Ashley,Farrell,ggreene@example.com,223-263-2100x414,Compass,15,4.6,2019-10-27
+AG00413,Nicholas,Barnett,lisathomas@example.net,(719)547-0835x82778,Independent,27,4.9,2013-03-23
+AG01940,Joanna,Torres,bauersharon@example.com,355.644.7013x401,Keller Williams,17,4.0,2020-05-12
+AG01601,Samantha,Harrell,jacob17@example.net,+1-434-505-5994x075,Compass,25,3.3,2013-01-24
+AG01677,Brandon,Wilson,williamsjennifer@example.com,+1-855-925-3568x6072,Century21,2,5.0,2026-02-28
+AG01462,Sara,Zamora,alyssanichols@example.com,625.740.7103,eXp Realty,8,4.8,2025-08-27
+AG00198,Jamie,Chavez,Jamie.Chavez@@invalid,642.704.9193x43690,Century21,0,2.9,2016-06-28
+AG00763,Kristin,Martin,kellybrown@example.net,28040194844047,Keller Williams,24,3.4,2015-07-08
+AG00459,Alyssa,Bonilla,heather23@example.com,830.227.3154x44567,Compass,21,3.5,2023-06-01
+AG00961,Brian,Garner,lopeznicole@example.com,671.765.8118,Century21,15,4.0,2015-06-25
+AG02830,Regina,Burgess,karen62@example.com,001-955-549-6684x883,Compass,7,3.9,2025-10-27
+AG01189,Bryan,Davis,Bryan.Davis@@invalid,893.928.8326x24891,Independent,0,3.4,2019-11-24
+AG01933,David,Jenkins,ogarcia@example.com,+1-395-323-6833x3573,Compass,1,7.5,2022-06-13
+AG00345,Emma,Love,josephbrady@example.com,(797)356-9497,Coldwell Banker,26,4.6,2014-03-21
+AG00223,Aaron,Barrett,awilliams@example.org,291-704-0009x3192,Coldwell Banker,12,3.4,2017-03-23
+AG01696,Juan,Morris,quinnjohnny@example.com,679-466-1105,Coldwell Banker,34,4.9,2017-03-27
+AG01464,Kristen,Greer,pwong@example.org,001-893-924-7960x169,Century21,17,4.4,2014-11-01
+AG00636,Kelly,Lara,lauren79@example.com,(581)988-7932x598,Independent,3,3.1,2016-10-26
+AG00066,James,Robinson,hahnshawn@example.org,001-704-487-1036x41062,Sotheby's International,22,4.1,2013-10-28
+AG00440,John,Long,edward10@example.net,0013594263779,Century21,22,2.5,2020-03-10
+AG02396,Francis,Robinson,brennanmichelle@example.com,689-914-6549x71865,RE/MAX,20,4.1,2011-11-04
+AG02526,Patricia,Wong,bowenallen@example.com,(576)912-8741x89840,Berkshire Hathaway HomeServices,18,2.7,2021-12-15
+AG01165,Adam,Wells,aramos@example.org,001-809-642-2245x01302,Century21,4,3.2,2012-09-12
+AG02794,Kristi,Wolf,michael24@example.com,2938405837,Keller Williams,5,2.7,2013-09-01
+AG01621,Emma,Forbes,emilymora@example.net,520-304-2191,eXp Realty,32,3.3,2024-04-05
+AG00912,Jeffrey,Thomas,garciadonna@example.net,374-425-6879x583,eXp Realty,21,2.9,2019-03-08
+AG02459,Jacqueline,Hurst,michael44@example.net,001-518-300-8106x274,Keller Williams,6,4.1,2012-12-06
+AG00581,Deanna,Benjamin,natalie07@example.net,565.262.4512x602,Coldwell Banker,18,3.3,2015-07-24
+AG00702,Anne,Rasmussen,thomas14@example.com,001-311-356-3043x47564,Berkshire Hathaway HomeServices,5,3.1,2014-07-03
+AG00068,Thomas,Diaz,courtneyoliver@example.com,847-942-0118x4043,eXp Realty,22,4.7,2019-07-07
+AG01797,Eric,Ford,kara37@example.com,702.339.0098x5169,Coldwell Banker,15,3.1,2024-05-06
+AG00686,Steve,Lee,sampsonmatthew@example.com,643-955-8267x1025,Compass,14,4.6,2011-12-24
+AG00987,Amy,Rasmussen,dthornton@example.net,786-742-6471x88759,eXp Realty,1,4.7,2012-06-24
+AG01307,Regina,Cook,austin93@example.net,001-702-439-2762x897,Century21,7,3.2,2025-07-15
+AG02682,Lindsay,Allen,april86@example.com,655-740-9753,Berkshire Hathaway HomeServices,2,3.0,2014-10-22
+AG00217,Amanda,Allison,Amanda.Allison@@invalid,17187735815830,Sotheby's International,17,4.6,2021-07-14
+AG02745,Alexander,Anderson,courtney05@example.com,001-455-568-9807x420,Keller Williams,1,4.7,2019-12-15
+AG02940,Destiny,Lutz,isharp@example.net,634.512.9571x88909,eXp Realty,10,2.9,2019-03-06
+AG01869,Jose,Sanchez,baileyronald@example.org,+1-228-556-1804x010,Independent,1,3.8,2011-12-03
+AG02328,David,Campbell,wardamy@example.com,222-995-6286x10403,Compass,20,3.7,2012-03-17
+AG02629,Elizabeth,Cook,jameswhite@example.com,(523)213-5349x335,Keller Williams,33,4.8,2017-10-21
+AG00861,Charlotte,Flores,ystevens@example.net,559-783-0804,eXp Realty,29,2.9,2011-11-15
+AG01605,Matthew,King,andrewramos@example.net,587-726-3076x73564,Redfin,26,2.6,2013-07-16
+AG02471,Jeffrey,Randall,daniellehughes@example.com,001-281-447-2709x672,Berkshire Hathaway HomeServices,6,4.7,2011-12-16
+AG02480,Jaime,Anderson,brian45@example.org,001-523-699-2226x503,RE/MAX,14,3.6,2020-05-18
+AG01045,Scott,Burch,kellyfernandez@example.net,929-370-0128x3131,Berkshire Hathaway HomeServices,9,3.8,2014-06-06
+AG01236,Danny,Brooks,iknight@example.net,217.429.0324x2247,Sotheby's International,30,4.4,2022-07-14
+AG00397,Taylor,Huynh,williamgallagher@example.org,679.444.7043x341,Century21,28,2.9,2024-06-03
+AG00643,Tiffany,Mcdonald,martinrebekah@example.net,378-541-7991x2963,Keller Williams,9,4.6,2021-07-03
+AG02140,Timothy,Garcia,marvinnguyen@example.org,+1-374-400-1351x40980,Redfin,1,4.6,2011-09-22
+AG00327,Kim,Brown,stevenwinters@example.com,257-593-4806,Coldwell Banker,2,3.8,2023-04-20
+AG02093,Paul,Garcia,jessebrooks@example.org,+1-934-983-6286x8926,Redfin,22,2.7,2018-07-11
+AG01137,George,Walker,iwhite@example.net,385.459.1519x0295,Century21,21,2.6,2024-09-18
+AG02967,Alyssa,Horton,Alyssa.Horton@@invalid,269-406-5012,Century21,33,4.9,2025-04-29
+AG00595,Jessica,Walker,cordovastephanie@example.org,4109779226,Berkshire Hathaway HomeServices,8,4.4,2020-12-09
+AG01261,Michael,Hayden,Michael.Hayden@@invalid,001-697-886-8723x78501,eXp Realty,31,2.7,2025-04-17
+AG00452,Kimberly,Jackson,heather83@example.org,001-341-452-3518x6057,eXp Realty,33,4.2,2012-08-01
+AG00370,Gabrielle,Ramsey,myerselizabeth@example.net,761-663-7033x42328,RE/MAX,14,4.1,2025-04-02
+AG00674,Laura,Bright,landerson@example.org,+1-559-602-8626x683,Berkshire Hathaway HomeServices,18,4.4,2012-01-16
+AG00481,Nicholas,Ewing,stanleystacy@example.net,5096511072,Redfin,14,3.3,2016-03-21
+AG01157,Michael,Freeman,jamiecantu@example.net,5505854656,eXp Realty,12,3.5,2024-06-25
+AG01724,Kevin,Brown,albertpalmer@example.org,(477)317-8518x216,Redfin,16,3.7,2018-08-26
+AG00464,Joseph,Strong,april29@example.org,+1-740-941-8966x946,Berkshire Hathaway HomeServices,22,2.9,2025-04-05
+AG00821,Danny,Gonzales,markseric@example.org,+1-388-395-9566,eXp Realty,8,2.8,2013-02-28
+AG02694,Mary,Phillips,csmith@example.net,9174959299,Coldwell Banker,11,4.4,2023-03-30
+AG01532,Ashley,Sharp,alvarezronald@example.net,001-493-424-7423x719,Keller Williams,18,3.1,2020-07-02
+AG02134,Christopher,Ayers,martinlaura@example.com,001-562-391-6775,Keller Williams,21,4.0,2024-02-20
+AG02092,Michael,Torres,vanessabutler@example.net,001-522-289-8040x105,Coldwell Banker,18,3.2,2017-09-25
+AG02514,Mary,Ballard,angelataylor@example.net,813-755-2888x41296,eXp Realty,33,2.8,2012-05-16
+AG02797,Pamela,Hill,regina79@example.com,001-896-956-3861x291,Compass,4,3.4,2021-07-23
+AG02782,Samuel,Decker,hernandezrobert@example.org,(395)887-3571x197,Berkshire Hathaway HomeServices,28,3.2,2015-07-04
+AG00971,Ryan,Jackson,jordan19@example.com,611.635.6315x4309,Sotheby's International,4,3.7,2024-01-27
+AG02589,Karen,Cross,michael22@example.org,+1-666-953-2730x896,Independent,1,3.9,2015-04-28
+AG01704,William,Cole,zclark@example.net,6357829284,Century21,24,4.6,2012-07-07
+AG01755,Carrie,Steele,charleswilliams@example.net,+1-568-454-8326x2662,Keller Williams,14,2.6,2019-04-12
+AG02942,Kathryn,Krueger,Kathryn.Krueger@@invalid,875682247267883,Redfin,17,3.9,2026-02-25
+AG01790,Anne,Grant,fclark@example.org,799-524-7768x500,RE/MAX,23,4.8,2013-02-04
+AG02270,Donald,Turner,Donald.Turner@@invalid,(709)531-2710,Century21,8,3.2,2018-06-14
+AG02741,Jennifer,Ortiz,tannercory@example.net,(332)431-2683x41792,Sotheby's International,11,4.1,2014-11-25
+AG00922,Carol,Briggs,christophermitchell@example.com,001-295-635-3203,Berkshire Hathaway HomeServices,2,3.7,2024-11-27
+AG02724,James,Acosta,cherrera@example.net,+1-573-388-5114,Redfin,31,5.0,2025-07-16
+AG02846,Brandon,Ballard,mmills@example.com,(775)452-3153x1233,Keller Williams,12,3.2,2013-06-22
+AG01465,Maria,Barker,lopezkelly@example.net,(225)358-2617,Redfin,15,4.2,2019-09-28
+AG00504,Kaylee,Gomez,patrick05@example.org,(217)467-3128x7155,Century21,22,7.5,2018-03-29
+AG02322,Amanda,Davis,stevenholden@example.org,873.246.8241x3625,Compass,17,3.0,2017-01-06
+AG02009,Alicia,Smith,april34@example.net,(822)977-0701,Sotheby's International,2,3.6,2012-09-19
+AG01219,Tyler,Chapman,xhatfield@example.net,(838)243-8692x7436,RE/MAX,33,3.7,2023-03-02
+AG00208,William,Melendez,alison58@example.com,001-718-879-3229x690,Berkshire Hathaway HomeServices,2,3.6,2019-05-15
+AG00392,Jason,Lynch,lewismelissa@example.org,343.919.2958,Independent,11,3.1,2020-07-05
+AG00744,Susan,Jacobson,rosalescynthia@example.net,2088185242,Sotheby's International,14,4.3,2017-07-24
+AG00616,Jessica,Hoffman,huntmelinda@example.com,(348)882-7527x4183,Independent,7,4.6,2025-03-25
+AG00633,Sierra,Castro,edwardsmichelle@example.org,284745368201633,Century21,20,3.7,2021-06-05
+AG00328,Isabel,Miller,jessicasantiago@example.com,657-619-1578x805,Coldwell Banker,24,4.3,2026-05-12
+AG02931,Scott,Lawrence,rothcolleen@example.org,368.741.8756x04561,eXp Realty,7,2.7,2016-01-11
+AG02344,Phillip,Smith,Phillip.Smith@@invalid,869.240.2312,Sotheby's International,24,3.1,2014-12-19
+AG00758,Michael,Durham,callen@example.org,+1-762-932-4767x5274,Redfin,32,4.6,2013-01-01
+AG01003,Amanda,Huffman,keithhayes@example.net,503-352-3912,Compass,26,3.5,2019-10-09
+AG02267,Carla,Oneill,yowens@example.net,+1-312-422-7820,Redfin,25,4.5,2020-02-15
+AG02642,Megan,Fleming,sclark@example.com,985.669.8334,RE/MAX,4,2.8,2017-08-11
+AG02577,James,Jones,megan44@example.com,479.934.5385x375,Redfin,24,3.5,2011-07-30
+AG00948,Alicia,Walker,matthew66@example.com,507-998-9751,Coldwell Banker,28,3.8,2018-06-24
+AG02823,Emily,Maxwell,tdavidson@example.com,(731)402-4877,Keller Williams,24,3.4,2015-01-08
+AG01643,Matthew,Murray,justin14@example.org,(952)287-5867,eXp Realty,21,4.7,2024-11-08
+AG00256,Jose,Clark,fisherwilliam@example.org,990.809.4712x343,Century21,19,4.9,2020-12-05
+AG01541,Erika,Robinson,bailey09@example.net,829-590-0065,Century21,17,4.7,2018-02-11
+AG02247,Clayton,Ochoa,ericayers@example.net,001-617-246-1572x04774,Redfin,31,4.3,2024-05-15
+AG02424,Joel,Mahoney,harringtonanthony@example.com,(465)956-4963x5596,eXp Realty,16,4.8,2020-07-21
+AG01650,Loretta,Gilmore,sanchezbarry@example.net,(225)378-5540x01581,Sotheby's International,23,4.5,2015-01-18
+AG02761,Curtis,Cobb,tonyahill@example.net,(297)773-0128x073,Century21,3,4.9,2015-09-28
+AG01329,Billy,Collins,david60@example.net,+1-224-985-1161x55058,Sotheby's International,11,4.2,2016-03-20
+AG00395,Lisa,Palmer,bruceaaron@example.com,001788526760941023,Berkshire Hathaway HomeServices,1,4.9,2021-06-30
+AG02580,Mary,Wells,luis64@example.net,490.770.6302x564,Redfin,34,3.7,2015-09-13
+AG00966,Robert,Leblanc,zking@example.com,001-397-792-2416x12932,eXp Realty,8,2.7,2015-06-04
+AG01771,Sandra,Wilson,qsanchez@example.com,885.724.6869x296,eXp Realty,14,2.8,2014-04-16
+AG01297,Michael,Gonzales,coxmichael@example.org,(560)278-9497x6542,eXp Realty,31,2.7,2026-03-29
+AG01128,Nichole,Moran,james90@example.org,001-553-491-4200,Coldwell Banker,7,3.1,2019-05-16
+AG00877,Meagan,Willis,lucasglass@example.org,(871)713-0372x0979,Compass,22,4.6,2012-07-07
+AG00297,Craig,Underwood,reginalawson@example.org,001-741-372-5092,Century21,9,3.1,2014-10-17
+AG01632,Angela,Alexander,scotthardin@example.net,748.805.3039x003,Coldwell Banker,32,4.4,2024-05-14
+AG01007,Kelly,Evans,justinjackson@example.org,353.711.3846,Berkshire Hathaway HomeServices,30,2.9,2014-04-27
+AG01317,Robert,Blankenship,lukerose@example.org,001-296-912-7376x53005,eXp Realty,23,3.4,2015-07-12
+AG01953,Joseph,Henderson,hollyyoung@example.net,+1-497-453-0178x459,Redfin,34,2.6,2022-11-08
+AG00112,Megan,Jones,jrichardson@example.com,959-486-6202x61134,Berkshire Hathaway HomeServices,28,3.5,2012-04-16
+AG02485,Gregory,Stevens,anthony10@example.net,633.986.5323,Compass,20,4.4,2012-09-28
+AG01602,Monica,Williams,sgregory@example.org,545.660.6141,Century21,24,4.8,2025-12-30
+AG00207,Tamara,Williams,tdowns@example.net,783.708.9011,Independent,12,3.4,2023-03-30
+AG00182,Mindy,Gibson,jennifer79@example.com,716.465.1426x1962,Independent,7,4.9,2019-07-26
+AG01175,Amanda,Owen,Amanda.Owen@@invalid,3385191349,eXp Realty,14,3.1,2018-10-30
+AG01814,Kyle,Morales,Kyle.Morales@@invalid,001-603-443-9560,Independent,18,4.8,2014-07-03
+AG02045,Curtis,Reilly,desiree03@example.com,+1-763-438-5405x183,Independent,5,2.6,2012-04-26
+AG00701,Michael,Miles,dromero@example.org,986-975-2767x4540,Coldwell Banker,20,4.5,2021-12-23
+AG00714,Michael,Chandler,craig91@example.net,252-285-8284x137,Independent,0,3.4,2011-09-11
+AG00973,Andrew,Ruiz,lindsay29@example.com,+1-814-474-8716,Keller Williams,32,4.1,2020-04-04
+AG02541,Linda,Stanton,nancy88@example.org,849.814.7363,Sotheby's International,17,4.4,2024-02-10
+AG01344,Gabrielle,Parsons,dluna@example.org,+1-345-250-4265,RE/MAX,14,4.4,2021-07-20
+AG01325,Darius,Guzman,sherripark@example.com,670.524.2551,Keller Williams,18,4.7,2014-07-14
+AG01996,Teresa,Knight,greenana@example.net,826-694-0554x498,Coldwell Banker,11,3.0,2018-01-20
+AG01896,Nicole,Nguyen,ijones@example.net,375.659.7762x902,Century21,6,3.2,2016-12-15
+AG00192,Mandy,Perkins,yvasquez@example.net,2473606343,Redfin,17,4.3,2013-10-12
+AG01415,Carol,Lowe,kayla68@example.net,947-557-7565,Keller Williams,5,3.9,2018-01-13
+AG00428,Melissa,Johnson,stricklanddaniel@example.net,001-554-682-2294x71076,Independent,1,4.8,2018-05-31
+AG01707,Andrea,Alexander,lchristensen@example.org,+1-991-609-2002x1344,Independent,4,2.9,2020-08-02
+AG00947,Mary,Gaines,Mary.Gaines@@invalid,(923)623-5156x583,Sotheby's International,2,4.6,2022-02-16
+AG01507,Matthew,Neal,Matthew.Neal@@invalid,+1-875-847-1803x2272,Sotheby's International,16,2.8,2014-10-05
+AG02462,Lindsay,Anderson,kathryn56@example.com,001-257-874-8764x383,Redfin,31,3.7,2024-04-04
+AG00507,Robert,Perez,tiffany81@example.net,+1-740-918-8151x212,Compass,4,3.1,2012-02-25
+AG01789,Sara,Pacheco,kdavis@example.org,001-573-248-5289,Berkshire Hathaway HomeServices,28,7.5,2016-12-02
+AG01575,Katherine,Gordon,ashley32@example.com,516.399.1560,eXp Realty,6,7.5,2017-08-14
+AG02403,Rebecca,Cooper,johnwalsh@example.net,001-494-625-6054,Century21,8,2.7,2019-12-25
+AG02094,Beth,Campbell,jjohnson@example.net,+1-213-373-5910x03537,Redfin,25,4.0,2018-05-08
+AG00642,Catherine,Palmer,robbinsmichael@example.com,364.465.9484x8775,Keller Williams,12,4.7,2014-05-23
+AG01582,George,Hudson,sarah46@example.org,656.525.8120x6907,eXp Realty,13,4.1,2023-03-28
+AG01757,Deborah,Le,vharrison@example.org,4176087481,Keller Williams,16,3.5,2015-11-02
+AG00414,Jon,Walker,jakedavis@example.net,(825)921-8122x864,Coldwell Banker,24,3.0,2021-07-04
+AG00853,Ashley,Bennett,davisallison@example.net,594-904-1038,Keller Williams,31,3.6,2014-03-04
+AG01055,Christina,Diaz,russellthompson@example.org,329.837.3240x931,Independent,24,4.1,2021-05-15
+AG00783,Erica,Adkins,ewarren@example.org,961-976-9610x152,Coldwell Banker,9,4.8,2015-02-10
+AG00793,Donald,Martinez,caitlin00@example.org,611413781315877,eXp Realty,28,2.7,2022-09-10
+AG02728,Jill,Rivas,rachel98@example.org,(777)268-0357,Compass,26,4.3,2018-10-13
+AG02221,Jonathan,Deleon,brianwilliams@example.com,+1-314-210-8764,eXp Realty,18,2.5,2019-02-24
+AG02148,Dustin,Franco,powersedward@example.com,001-225-672-4043x82760,Keller Williams,21,5.0,2015-09-23
+AG00672,Christopher,Stevens,kaufmannicole@example.net,269-288-1860x5736,Independent,24,3.9,2013-05-21
+AG02490,Michael,Hunt,bjohnson@example.org,+1-209-752-7426,Independent,16,5.0,2015-02-23
+AG00896,Jennifer,Ramirez,sstewart@example.org,447.322.1615,RE/MAX,4,7.5,2020-01-19
+AG00699,Henry,Jackson,pedro59@example.net,890-872-2544x096,Berkshire Hathaway HomeServices,28,4.7,2022-11-06
+AG01083,Peter,Sherman,Peter.Sherman@@invalid,+1-330-512-9001x06666,Coldwell Banker,9,3.4,2016-07-22
+AG01934,Tony,Best,david85@example.net,7678413390,Berkshire Hathaway HomeServices,25,4.8,2023-01-26
+AG02770,Lynn,Garcia,nmelton@example.net,305.412.9920x57105,Sotheby's International,14,4.2,2022-09-09
+AG02161,Brett,Barr,andersonsteven@example.org,437-719-2037x75078,Century21,30,3.1,2021-04-09
+AG01621,Emma,Forbes,emilymora@example.net,520-304-2191,eXp Realty,32,3.3,2024-04-05
+AG01291,Gregory,Simmons,Gregory.Simmons@@invalid,581-283-9603,eXp Realty,9,4.5,2023-05-27
+AG01721,Shawn,Turner,heather24@example.com,493-454-2856,Sotheby's International,6,2.9,2016-06-22
+AG00252,Christopher,Floyd,nicholashunt@example.org,418-947-2153,Keller Williams,6,4.5,2020-10-02
+AG01054,Emma,Hernandez,heather71@example.com,(920)676-6449,Independent,34,4.9,2012-06-13
+AG00094,Kimberly,Walker,burnscharles@example.org,931-584-9315,Sotheby's International,31,4.8,2021-06-21
+AG02430,Kristen,Gardner,carpenterhannah@example.com,001-342-201-7509x943,Compass,1,4.6,2023-03-29
+AG00941,Julie,Rogers,drakejeremy@example.com,546-766-9267x22127,Keller Williams,27,4.6,2020-06-25
+AG02164,Laurie,Woods,holly54@example.com,001-782-323-3541x690,Sotheby's International,11,3.0,2013-05-18
+AG02711,Wendy,Wright,millersherry@example.net,577.629.8292x807,Compass,19,3.1,2014-05-26
+AG01062,Thomas,Martin,jeffmartin@example.com,+1-232-895-5453x5894,Redfin,7,3.6,2022-01-12
+AG00477,Taylor,Morgan,hensondaniel@example.net,719-951-0015x69078,Century21,26,4.8,2012-12-20
+AG01094,Barbara,Davenport,kathleen52@example.net,001-218-320-7841,Compass,24,4.9,2017-06-29
+AG00631,Paul,Dixon,patricia50@example.org,(616)554-6884x93869,Compass,13,4.5,2014-07-03
+AG02743,Bryan,Hopkins,kathleenjordan@example.org,+1-591-767-5942x42588,Independent,7,4.7,2021-01-23
+AG00465,Jim,Kennedy,elee@example.com,686.525.2051x901,Century21,29,4.4,2016-03-27
+AG02117,Scott,Klein,sarah56@example.net,942376405139529,Century21,19,3.8,2023-12-27
+AG01922,Laura,Barajas,alicia56@example.net,001-328-929-6099x860,Century21,7,7.5,2015-08-19
+AG00443,Jesus,Williams,jacob57@example.com,377.927.6422,Redfin,15,3.5,2025-05-23
+AG00617,Gabriel,Pope,scottanthony@example.org,+1-838-265-2830x2301,Keller Williams,6,4.1,2011-09-16
+AG02383,Timothy,Lopez,michael52@example.net,+1-411-746-0984x3761,Century21,11,3.6,2012-06-05
+AG01738,Vanessa,Lee,rossdustin@example.net,(990)704-3036,Coldwell Banker,33,3.0,2011-12-29
+AG02101,Mark,Hobbs,porterdaniel@example.net,(694)359-4145x2344,RE/MAX,0,4.0,2023-06-10
+AG00684,Karen,Robinson,russellpatrick@example.com,865-712-4473,Keller Williams,9,4.2,2017-11-13
+AG02913,Abigail,Freeman,Abigail.Freeman@@invalid,(300)596-7393x1650,Berkshire Hathaway HomeServices,10,2.7,2018-04-03
+AG01143,Patricia,Rogers,hgibson@example.org,564.212.1761x5588,Compass,13,3.1,2022-07-08
+AG02536,Kelly,Hoffman,kaylamartin@example.net,275.826.5274,eXp Realty,23,3.1,2012-12-15
+AG02677,Dominic,Scott,zwallace@example.net,2785788791,eXp Realty,6,3.0,2020-05-17
+AG01271,Jasmine,Freeman,ljames@example.com,763-451-5330,Sotheby's International,14,4.1,2021-04-25
+AG00140,Shirley,White,rubiochris@example.org,(208)202-2593x101,Compass,22,3.9,2022-08-31
+AG02021,Alexa,Rice,mistysilva@example.net,(513)558-2175x57196,eXp Realty,29,2.9,2019-09-20
+AG00050,Edward,Mccarty,bowenmargaret@example.net,841.716.6574,Independent,14,3.0,2023-01-09
+AG02170,Nathaniel,Gutierrez,james64@example.net,(535)901-9689,Independent,16,2.7,2019-12-02
+AG01028,Brenda,Edwards,richardpeters@example.net,868-299-0611,eXp Realty,11,2.8,2016-03-09
+AG02129,David,Shields,matthew52@example.com,+1-209-906-4437,Sotheby's International,19,4.1,2024-10-08
+AG01356,Lacey,Garcia,dana34@example.org,873.809.7200x918,Coldwell Banker,34,4.0,2015-10-03
+AG00846,Aaron,Chandler,nicolegutierrez@example.com,(919)304-7192,Compass,29,4.9,2022-10-12
+AG02319,David,Wilson,richardrussell@example.org,513.940.9339x317,Sotheby's International,12,4.0,2015-05-15
+AG00889,Nathan,Cross,mitchellbilly@example.com,+1-508-519-9595,Independent,2,3.7,2014-03-04
+AG00985,Erika,Taylor,renee45@example.org,001-382-444-8787x24132,Independent,6,4.3,2012-08-26
+AG01064,Jeanette,Arnold,millerelizabeth@example.com,4632417682,Sotheby's International,0,4.2,2022-10-20
+AG01754,James,Brown,anthonysmith@example.com,452.745.3626,Compass,28,4.2,2022-06-27
+AG01072,Sydney,Owen,christinabrown@example.org,365-414-9861x90166,Berkshire Hathaway HomeServices,20,4.0,2020-09-30
+AG00888,Frank,Scott,cody32@example.org,3416590038,Berkshire Hathaway HomeServices,3,3.0,2023-11-17
+AG01552,Henry,Carter,colinmorris@example.org,423813989483412,RE/MAX,8,3.7,2022-07-19
+AG01594,Kevin,Schneider,johnsonmark@example.net,820.290.1847x802,Berkshire Hathaway HomeServices,29,4.7,2012-08-17
+AG00258,Walter,Nixon,mitchelljacob@example.net,833.910.5375x4872,Century21,19,4.3,2016-03-01
+AG01233,Teresa,Wright,alexis43@example.org,3753201279,eXp Realty,20,3.3,2016-11-21
+AG02998,Diana,Patterson,rosskelly@example.com,(386)726-9614x0150,Century21,28,3.3,2016-12-14
+AG02099,Nathan,Rodriguez,mccartyaaron@example.net,209-462-7593x8450,Century21,25,7.5,2023-06-05
+AG02382,Latasha,Haas,barneskathleen@example.net,001-301-466-8690x76323,Coldwell Banker,19,4.6,2023-01-24
+AG00336,Robert,Peterson,cwatson@example.net,001-302-789-4817x374,Berkshire Hathaway HomeServices,29,3.3,2022-11-09
+AG00314,Steven,Dawson,ashley51@example.com,(648)660-1686x2033,Keller Williams,13,4.3,2025-12-24
+AG02531,Philip,Armstrong,sthompson@example.org,962.819.1365,Compass,19,3.7,2020-08-26
+AG02401,Maria,Sanders,jessegarrett@example.org,(599)354-5461,Keller Williams,3,3.4,2014-05-21
+AG00850,Ryan,Hickman,wpugh@example.com,+1-836-942-1721x574,Sotheby's International,21,4.6,2015-09-30
+AG01087,Kristin,Davis,kmyers@example.com,001-756-473-7685x650,Independent,22,7.5,2016-01-27
+AG00060,Michael,Flynn,qsmith@example.net,823-739-6966x7403,Redfin,34,4.4,2014-11-28
+AG01659,Charles,Marquez,zwood@example.com,001-497-514-7839x7656,Berkshire Hathaway HomeServices,6,7.5,2013-02-16
+AG00603,Courtney,Mckinney,lisawest@example.org,651.994.8645x2127,RE/MAX,0,3.4,2018-03-06
+AG02031,Gerald,Reed,robinsonelizabeth@example.com,(546)739-3662x3662,Sotheby's International,11,2.8,2013-04-23
+AG01355,Daniel,Marsh,angelicalittle@example.com,(686)764-2879,Redfin,26,3.4,2025-03-24
+AG02810,Brittany,Grant,walter99@example.com,406-611-3776,Redfin,10,3.5,2016-10-18
+AG02040,Marilyn,Mayer,catherineacosta@example.com,(479)564-2266x59496,Independent,21,2.5,2013-11-12
+AG01012,Amy,Smith,jacob70@example.com,498-999-9933,Coldwell Banker,32,4.4,2015-07-04
+AG01337,Danielle,Sanchez,sanderson@example.com,812.453.9147x26746,Coldwell Banker,26,2.5,2013-05-01
+AG00532,James,Taylor,lacey36@example.net,7196659739,Coldwell Banker,29,3.4,2022-12-26
+AG00943,Margaret,Spears,lhill@example.net,(807)457-1202x8591,Independent,6,4.1,2018-11-06
+AG01488,Christopher,Cochran,jacoblynch@example.org,423.602.6937,eXp Realty,16,3.5,2023-07-23
+AG00606,Sarah,Turner,jonessamantha@example.net,722-231-8993,RE/MAX,18,3.3,2025-11-08
+AG01203,Brian,Davies,fsteele@example.net,7395874859,Redfin,29,3.4,2014-09-19
+AG02315,Natasha,Blair,pbrown@example.com,6348542424,Compass,30,2.6,2016-12-18
+AG02893,Tiffany,Rice,shannonray@example.net,001-686-345-4553x546,Compass,32,2.8,2026-05-17
+AG02996,Dawn,Jenkins,cathy49@example.com,2296851435,RE/MAX,23,4.4,2018-03-24
+AG01189,Bryan,Davis,Bryan.Davis@@invalid,893.928.8326x24891,Independent,0,3.4,2019-11-24
+AG01965,Hannah,Daniels,ipham@example.org,+1-534-867-8427x94309,eXp Realty,4,4.1,2019-07-16
+AG01913,Felicia,Lamb,austincassandra@example.org,+1-726-376-7075x854,Keller Williams,15,7.5,2021-07-06
+AG02609,Robert,Johnson,christina21@example.org,001-547-794-5961x199,Berkshire Hathaway HomeServices,7,4.8,2017-08-20
+AG01320,John,Andrews,ashley91@example.net,9294772606,Coldwell Banker,28,4.3,2020-06-11
+AG02084,Bradley,Villarreal,Bradley.Villarreal@@invalid,(389)657-5253x796,Keller Williams,31,4.8,2015-07-28
+AG00690,Jesse,Castillo,tanner26@example.net,251-938-1280,Redfin,25,4.9,2018-09-12
+AG02083,Nathan,Taylor,william27@example.net,863.718.6268,Independent,22,3.3,2015-03-23
+AG00584,Alexis,Rocha,matthew63@example.org,577.729.0311,Independent,27,4.9,2023-01-05
+AG00953,John,Mccoy,gina86@example.com,526-953-8653x4816,RE/MAX,8,3.6,2016-11-03
+AG00280,John,Thompson,chanscott@example.net,001-239-302-6621x84042,Berkshire Hathaway HomeServices,27,4.4,2018-06-22
+AG00802,Tim,Montes,jenniferfrench@example.com,+1-806-347-8941,Redfin,9,3.5,2012-07-23
+AG02014,Amy,Johnson,marymartin@example.org,001-675-919-1507,Berkshire Hathaway HomeServices,14,4.2,2017-12-29
+AG02518,Karen,Rodriguez,jdean@example.net,+1-409-524-4552,Berkshire Hathaway HomeServices,21,4.5,2014-03-25
+AG00928,Jennifer,Johnson,theodore20@example.net,757-245-9668x166,RE/MAX,17,4.7,2015-07-08
+AG00502,Thomas,Diaz,kimberlybrown@example.net,484-731-2995,Century21,7,3.7,2024-07-02
+AG00816,Matthew,Mclaughlin,jackmcbride@example.net,(430)476-3996x015,Keller Williams,21,4.4,2013-07-24
+AG01419,Danny,Thompson,valerielee@example.net,15815921045,Century21,18,3.9,2014-05-05
+AG00254,Anthony,Jordan,hooperamy@example.com,266-805-4680,Berkshire Hathaway HomeServices,30,3.9,2022-02-11
+AG01130,Tommy,Jackson,crawfordbonnie@example.com,001-339-462-8472,Compass,29,3.6,2021-03-05
+AG00986,Joshua,Aguilar,lisa18@example.org,(252)384-9057x606,Coldwell Banker,14,3.2,2011-12-28
+AG00339,Crystal,Hickman,karendawson@example.net,(608)853-3919,RE/MAX,15,3.8,2025-01-19
+AG00444,Kimberly,Roberts,ohanson@example.org,341.607.8225x04406,Keller Williams,1,4.4,2015-10-05
+AG02821,Thomas,Smith,gregorykaren@example.com,629-385-9157x7177,Berkshire Hathaway HomeServices,22,3.9,2021-10-09
+AG00483,Susan,Bond,christianpaul@example.com,7715799860,Independent,6,4.6,2021-03-29
+AG00688,Lindsay,Wagner,lisaperez@example.org,385.710.3535x45049,Compass,29,2.9,2013-12-13
+AG02582,Kimberly,Cantu,heatherlopez@example.net,451.742.8948x00441,Compass,0,3.1,2019-03-09
+AG02839,Cynthia,Tucker,rachel64@example.net,+1-804-316-5489x71184,RE/MAX,16,3.7,2012-06-03
+AG02620,Julia,Casey,tammybarrett@example.org,(304)924-8477,Berkshire Hathaway HomeServices,4,3.4,2023-11-14
+AG00201,Andrew,Stanley,petersonsharon@example.net,989-652-2368,Redfin,10,4.2,2023-11-03
+AG00577,Tina,Wade,kellycoleman@example.com,(732)333-2589,Keller Williams,12,2.9,2024-10-02
+AG02261,Karen,Garcia,peggy47@example.net,001-945-868-6502x58977,Coldwell Banker,24,2.6,2023-05-18
+AG01076,Monique,Castro,clarkscott@example.com,8514900043,Independent,8,3.1,2011-11-06
+AG02592,Samantha,Cooper,Samantha.Cooper@@invalid,001-419-557-3111x9704,Century21,21,4.1,2023-03-12
+AG02266,Michelle,Wallace,justinlopez@example.org,(268)900-0275,Century21,1,4.6,2022-07-19
+AG01690,Kelli,Evans,sherylhawkins@example.net,(988)571-9235,RE/MAX,17,2.9,2025-09-27
+AG00255,Jamie,Rubio,robertsonluke@example.com,853.613.6075x442,Keller Williams,28,3.4,2016-11-23
+AG00239,Holly,Jones,xsingh@example.com,+1-860-371-5222x8728,Coldwell Banker,26,2.6,2026-03-13
+AG00999,Stephanie,Cox,porterscott@example.org,676-261-9777x9497,Berkshire Hathaway HomeServices,5,3.9,2016-07-20
+AG02900,Craig,Norris,sarah89@example.net,5024121217081,eXp Realty,23,3.3,2015-11-07
+AG02365,Samantha,Anderson,markstafford@example.org,12085328148336,Redfin,17,3.6,2017-06-02
+AG01578,Jennifer,Spears,paulaalvarez@example.com,+1-885-768-3816x609,RE/MAX,21,3.0,2024-03-19
+AG01978,Adam,Williams,gonzalesashley@example.org,396-862-9186,Compass,13,5.0,2021-04-19
+AG00404,Lisa,Cox,fmack@example.org,(944)427-6685x3088,Berkshire Hathaway HomeServices,19,3.8,2018-03-12
+AG02190,Brittany,Zamora,msantana@example.org,001-870-228-7502x91770,Keller Williams,25,2.8,2024-06-16
+AG00939,Dylan,Lopez,ronaldaguilar@example.org,001-986-666-1834x22629,Redfin,16,4.3,2021-04-02
+AG02654,Natasha,Maldonado,qarias@example.net,(807)863-1502,Redfin,8,4.3,2025-07-22
+AG00439,Diana,Miller,lopezdebra@example.com,001-927-404-7234,Keller Williams,27,4.0,2015-12-22
+AG00182,Mindy,Gibson,jennifer79@example.com,716.465.1426x1962,Independent,7,4.9,2019-07-26
+AG01038,Kelsey,Collier,jason88@example.net,001-930-273-3284,Redfin,13,3.9,2012-01-28
+AG00501,Michael,Adams,samantha60@example.net,001-497-549-8319x17048,eXp Realty,24,4.8,2013-07-11
+AG02728,Jill,Rivas,rachel98@example.org,(777)268-0357,Compass,26,4.3,2018-10-13
+AG01108,Tyler,Zuniga,gclark@example.net,(990)224-6439x4338,Keller Williams,12,3.7,2013-12-03
+AG01510,Margaret,Robinson,richardsrichard@example.com,888-709-0219,Compass,27,4.3,2015-11-24
+AG01973,Paul,Wilson,dlittle@example.com,+1-869-422-0645x725,Century21,15,3.7,2013-01-11
+AG01628,Andrew,Edwards,rebecca12@example.net,001-531-834-2684x5670,Century21,20,4.6,2016-12-21
+AG01547,Robert,Arnold,gary82@example.org,695.671.9589,Keller Williams,11,3.2,2018-05-29
+AG01868,Johnathan,Gordon,richard27@example.net,7202896951,Compass,0,7.5,2026-03-22
+AG00164,Anthony,Robinson,Anthony.Robinson@@invalid,(619)874-8205x7958,RE/MAX,10,3.9,2016-01-11
+AG02777,Andrew,Juarez,robert76@example.org,807-803-2768,Compass,3,3.9,2014-05-05
+AG00358,April,Cunningham,burkemary@example.net,0012649572758420,Keller Williams,21,7.5,2013-11-30
+AG00144,Mark,Miller,wilsonjeffrey@example.net,001-578-264-3788x41938,RE/MAX,22,4.8,2013-09-11
+AG01452,John,Johnson,simmonsjeremy@example.com,+1-446-383-2778x42460,Sotheby's International,16,2.9,2020-06-17
+AG00303,James,Smith,garyroberson@example.org,766-743-7785x3220,RE/MAX,3,3.2,2020-10-19
+AG02107,Rachel,Miller,vnelson@example.org,943-576-9951x1379,RE/MAX,31,2.6,2018-10-18
+AG00299,Tonya,Atkinson,bryanbutler@example.com,001-972-510-5983x41853,Coldwell Banker,11,3.4,2016-07-30
+AG00352,Theresa,Zimmerman,ashley65@example.com,808.509.0038,Independent,0,4.8,2025-03-21
+AG01920,Antonio,Cook,jeffrey57@example.net,(516)905-1327x75680,Coldwell Banker,13,4.5,2024-10-24
+AG00322,Kaitlyn,Boyd,arellanojessica@example.org,001817425275621663,Keller Williams,3,4.4,2011-11-13
+AG01230,Glenn,Padilla,sharonjohnson@example.net,001-422-661-8115,RE/MAX,14,4.2,2012-11-22
+AG02112,Steven,Cole,wrighteric@example.net,(424)795-1268x095,Coldwell Banker,17,4.4,2025-10-04
+AG01874,Dawn,Tanner,amyruiz@example.com,001-706-603-4629x3150,Independent,19,4.8,2024-03-05
+AG01537,Matthew,Reid,Matthew.Reid@@invalid,8036938560,Compass,18,4.6,2022-01-02
+AG01804,Brianna,Mcdaniel,tbowman@example.net,476-639-0501,Coldwell Banker,26,3.3,2025-09-11
+AG02658,Cheryl,Hamilton,cyoung@example.org,344.758.0168,Redfin,2,3.0,2019-07-13
+AG01205,Brandi,Stout,heatherrichardson@example.com,001-431-556-0337x43291,Century21,24,3.7,2013-12-19
+AG00628,Deanna,Roach,ijones@example.org,718-651-6263,Coldwell Banker,12,2.6,2012-01-09
+AG00675,James,Rogers,jmeyer@example.org,001-546-878-2108x22686,Keller Williams,15,3.9,2022-01-02
+AG00535,Diane,Rhodes,ubaker@example.com,611-743-4695x458,Berkshire Hathaway HomeServices,6,4.5,2016-05-06
+AG01498,Aaron,Marshall,harringtonjoyce@example.com,490.966.9099x4666,eXp Realty,31,4.7,2014-05-01
+AG02907,Kayla,Jensen,lewisjerry@example.net,710.296.4370x9435,Century21,30,3.0,2021-09-15
+AG00866,Jasmine,Mathews,bbenjamin@example.com,(801)438-9526x540,Berkshire Hathaway HomeServices,9,4.0,2012-09-23
+AG02648,Vincent,Hale,erinhuff@example.com,(309)860-8959,RE/MAX,13,3.1,2020-01-24
+AG01545,Nathan,King,dharris@example.com,(993)916-6109,Century21,17,3.4,2015-04-16
+AG01393,Robert,Murphy,jacksonnatalie@example.com,629.522.4924x6328,Coldwell Banker,18,4.4,2026-01-17
+AG02333,Alexis,Herring,sherry20@example.net,638.851.0372x20336,Coldwell Banker,25,2.7,2020-06-23
+AG01908,Rhonda,Murray,jeffreypatrick@example.net,(531)697-6279x59882,Sotheby's International,25,2.5,2025-11-07
+AG02290,Chad,Bowers,fallen@example.com,449.797.3278x385,Keller Williams,34,4.8,2022-10-10
+AG02509,Rebecca,Larson,westbrenda@example.net,4982250732,Keller Williams,9,2.6,2017-09-06
+AG01705,Cynthia,Sawyer,richard99@example.com,8506844225,eXp Realty,18,3.9,2022-06-26
+AG00990,John,Edwards,dillonmartinez@example.org,765.400.2676,Redfin,12,3.7,2024-12-31
+AG01509,Elizabeth,Walker,mnixon@example.org,5427111528,Compass,9,4.6,2014-01-30
+AG01590,Nathan,Wong,mckaythomas@example.net,430-814-3032x2049,Century21,9,4.6,2012-05-05
+AG02678,Joshua,Rice,frichardson@example.com,720.603.1774x948,Independent,32,2.8,2018-11-19
+AG00250,Ralph,White,marthamoore@example.com,459.363.1888x280,Keller Williams,6,7.5,2012-05-16
+AG01229,John,Carrillo,jgarza@example.com,+1-850-791-5413x465,Coldwell Banker,4,3.9,2014-05-24
+AG00067,Claire,Cruz,floreschristine@example.net,889.900.7715x8072,Keller Williams,25,3.5,2019-08-23
+AG02957,Laura,Raymond,nancyhughes@example.org,354-672-5767,Compass,28,4.8,2014-09-17
+AG00271,Ebony,Sullivan,matthewshort@example.net,3416989800,Independent,31,3.3,2024-09-01
+AG01723,Ashley,Page,tiffany54@example.org,17298808638767,Century21,23,4.0,2020-07-11
+AG01623,James,Johnson,tinacole@example.com,9616527789,Independent,26,4.9,2013-11-18
+AG00615,Larry,Cooke,princemelinda@example.com,260.628.3111x3118,Redfin,13,2.9,2020-01-11
+AG00053,William,Taylor,gbaker@example.com,280-381-2921x699,Independent,33,3.2,2016-11-24
+AG01348,Kimberly,James,christopherjohnson@example.org,530.683.7859,Keller Williams,29,4.3,2025-01-30
+AG01772,Jason,Hicks,cameronmeyer@example.org,828-329-9436,eXp Realty,1,3.0,2022-09-24
+AG01512,Frank,Richardson,mschaefer@example.org,(827)806-1849x70944,Compass,34,2.6,2013-11-12
+AG00172,Cynthia,Russell,adamssusan@example.com,+1-813-537-0129x01374,Sotheby's International,15,3.5,2018-07-07
+AG01866,Courtney,Mckinney,jennifersmith@example.net,(292)392-9819x02587,Compass,27,2.8,2022-12-15
+AG01400,John,Martin,nmurray@example.net,337-876-8109x11383,RE/MAX,6,3.8,2014-04-14
+AG02475,Preston,Vasquez,patrick94@example.org,+1-398-839-9145,Keller Williams,28,2.7,2012-03-05
+AG02154,Jose,Leblanc,matthew62@example.net,523.699.1661,Sotheby's International,24,3.7,2015-03-09
+AG02123,Richard,Carter,karendaniels@example.net,3474941892,Berkshire Hathaway HomeServices,14,4.4,2011-11-07
+AG02231,Brandi,Wilkins,adamjohns@example.org,(741)475-6988,Keller Williams,29,4.4,2023-08-03
+AG01767,Jacob,Miller,wdavis@example.com,394.487.8707x717,RE/MAX,19,2.7,2015-04-12
+AG00695,Thomas,Ruiz,diazian@example.org,(957)577-8764x0338,Compass,23,3.2,2023-04-12
+AG02062,John,Perez,daniel00@example.org,648.338.1127x5822,Coldwell Banker,4,3.7,2019-12-24
+AG02298,William,Smith,rachel49@example.org,5819700514,Coldwell Banker,33,4.6,2018-01-03
+AG01463,Gary,Alexander,ryan31@example.net,769.570.4795,Berkshire Hathaway HomeServices,30,3.3,2021-05-02
+AG02289,Kenneth,Clark,scott87@example.org,403-658-4297x995,eXp Realty,31,3.6,2016-09-14
+AG00131,Joseph,Jacobs,bartontammie@example.net,+1-861-231-6786x3038,Century21,10,4.0,2025-01-30
+AG00749,Elizabeth,Woods,marymurray@example.net,691-584-2839x74097,eXp Realty,30,3.1,2025-06-08
+AG02614,Tammy,Montgomery,stevensjenny@example.com,827-268-6641,Berkshire Hathaway HomeServices,14,4.6,2024-11-24
+AG02780,Sierra,Cooper,kristina79@example.com,645-705-9915x0789,Redfin,23,3.6,2017-02-26
+AG00175,Cameron,Johnson,gwalter@example.net,(290)656-0872x5194,Compass,16,2.8,2012-04-22
+AG00270,Megan,Taylor,josevelez@example.org,935-605-3790,Berkshire Hathaway HomeServices,9,3.0,2018-04-24
+AG00106,Kevin,Lewis,joshuaenglish@example.org,432-470-0531x6932,Sotheby's International,3,3.3,2016-05-31
+AG02487,Shawn,Hudson,qkemp@example.com,0018674362021,Compass,22,3.6,2013-08-23
+AG01741,Ronnie,Nicholson,robertjackson@example.com,408.387.5394x970,Berkshire Hathaway HomeServices,5,5.0,2021-07-30
+AG01947,Jason,Barajas,melissa25@example.com,4926273681,Sotheby's International,15,4.1,2014-01-16
+AG01718,Derek,Johnson,smithchristopher@example.com,(936)896-4635x21323,Redfin,21,4.1,2024-11-27
+AG00676,Karen,Wang,kellywilliams@example.net,365-293-4285x7537,Compass,21,2.8,2022-04-05
+AG01386,Amy,Miller,richardsonjennifer@example.org,3929939297,Independent,6,2.8,2012-04-27
+AG02562,Patrick,Robles,achambers@example.com,0012314662600563,Compass,28,3.6,2020-04-27
+AG00710,Cynthia,Lin,april74@example.com,001-616-742-9994x17430,Century21,23,3.1,2011-08-21
+AG02066,Andrew,Davis,brandon95@example.org,(264)685-0904x96941,Berkshire Hathaway HomeServices,23,2.7,2024-02-01
+AG02013,Cristina,Tyler,kmalone@example.org,926.677.2021x409,Coldwell Banker,15,4.2,2013-04-08
+AG01873,Katherine,Mayo,krystal10@example.org,+1-951-873-6611x21063,Sotheby's International,34,3.6,2013-08-20
+AG00028,Victoria,Pratt,johnsonsuzanne@example.net,+1-422-914-4345x1158,Independent,11,4.6,2024-04-12
+AG02177,Samantha,Lewis,courtneykirk@example.com,001-271-871-0594,RE/MAX,4,3.1,2019-07-22
+AG01383,Jacqueline,Mendez,kellydiaz@example.org,784.895.5926,Coldwell Banker,25,4.2,2019-04-07
+AG00975,Tara,Adams,elizabeth77@example.net,565-655-4702x761,Compass,22,2.9,2017-07-06
+AG01358,Robin,Goodwin,rivasjason@example.net,(935)735-7374x8826,Coldwell Banker,5,3.7,2017-09-22
+AG00215,Michael,Fisher,zholloway@example.net,8098183396,Century21,7,3.0,2015-01-06
+AG00227,Adam,Rivers,bruce83@example.net,785-684-0471,RE/MAX,15,4.7,2015-03-04
+AG00978,Cynthia,Gill,warrenjacqueline@example.net,+1-495-281-9873x003,Redfin,34,4.4,2017-08-08
+AG02377,James,Jimenez,evansderek@example.net,+1-499-963-7684x00794,Keller Williams,31,2.9,2016-07-11
+AG00057,Denise,Mills,Denise.Mills@@invalid,(937)229-8308,Coldwell Banker,6,2.7,2011-09-18
+AG00537,Renee,Williams,adrianrose@example.com,+1-602-827-9497,Century21,2,4.9,2013-05-04
+AG00924,Alexandra,Woods,cbaker@example.org,8748502308,Sotheby's International,4,4.4,2023-05-26
+AG00843,Lindsay,Gutierrez,omejia@example.net,001-558-372-8232x29953,Redfin,33,3.1,2013-05-14
+AG02681,Angela,Jordan,suzannehines@example.com,001-765-286-0388x6666,Sotheby's International,24,2.8,2016-08-19
+AG00319,Rebecca,Booker,jordanlawrence@example.com,1501417089061266,Century21,17,4.6,2014-04-25
+AG01107,Annette,Hunt,steven66@example.net,001-296-267-7788x886,eXp Realty,10,4.1,2025-09-20
+AG01970,Lucas,Dennis,reynoldsgregg@example.org,(512)631-5750x78671,Coldwell Banker,2,4.8,2013-10-20
+AG02936,Mark,Riggs,epage@example.com,001-701-271-2596x685,Independent,28,2.7,2025-02-18
+AG02488,Lisa,Wu,zvelez@example.net,001-270-243-1546x7461,Coldwell Banker,10,7.5,2019-09-08
+AG02271,Joseph,Hall,Joseph.Hall@@invalid,001-982-963-0903,eXp Realty,9,4.5,2014-09-12
+AG01861,Brian,Horne,lorihorton@example.com,327-478-2469x02627,Berkshire Hathaway HomeServices,5,4.9,2023-02-12
+AG02691,Jeffery,Delgado,kylemontgomery@example.org,+1-660-489-5781x969,Century21,22,3.4,2019-02-23
+AG00820,Rebecca,Johnson,farmerryan@example.org,3235922656,Coldwell Banker,1,2.8,2022-05-09
+AG01313,Anthony,Carr,ethan88@example.com,001-405-496-7519x9987,eXp Realty,14,3.2,2023-01-09
+AG00766,Tricia,Lee,valerie68@example.org,440.901.8824,Compass,18,4.4,2018-04-11
+AG01599,Monica,Garcia,Monica.Garcia@@invalid,94093389318414,Berkshire Hathaway HomeServices,34,3.1,2020-09-23
+AG00730,Benjamin,Byrd,cruzstephanie@example.com,(854)320-7772x493,Sotheby's International,18,4.3,2014-03-20
+AG00045,Brenda,Walker,kylecharles@example.net,001-690-858-7683,Coldwell Banker,12,2.8,2017-07-13
+AG02165,Melissa,Brandt,cblack@example.net,(886)614-8123x920,Keller Williams,17,4.4,2012-11-19
+AG02983,Gregory,Cameron,hawkinsshannon@example.com,+1-205-958-5838x215,Compass,32,2.8,2015-09-12
+AG00005,Wayne,Ward,Wayne.Ward@@invalid,799-637-9801,eXp Realty,28,3.8,2016-07-21
+AG01091,Jack,Hubbard,kathleenmurphy@example.com,(347)378-0120x881,Redfin,27,4.4,2015-06-01
+AG02163,Michelle,House,megantorres@example.com,001-446-832-9929x340,Keller Williams,16,3.8,2019-10-03
+AG02560,Brian,Scott,adamsgina@example.net,932.639.8553x856,Compass,20,4.3,2013-08-02
+AG01186,Madeline,Spence,riceashlee@example.org,(240)530-8037x292,Independent,14,2.8,2012-06-16
+AG01746,Joshua,Williams,montgomerylisa@example.net,401.435.7160,Coldwell Banker,5,4.6,2013-03-31
+AG00156,Jenny,Vaughan,john19@example.net,+1-600-381-3702x4729,Redfin,17,3.2,2025-11-17
+AG02641,Joshua,Fox,james54@example.org,001-469-374-6683x18078,Sotheby's International,6,2.7,2018-12-01
+AG02852,Danielle,Burns,rcasey@example.com,+1-937-653-0017,Sotheby's International,1,3.5,2020-08-15
+AG02065,Patrick,Mckenzie,janet71@example.net,(842)944-3676,Redfin,4,4.7,2019-03-03
+AG01112,Yesenia,Nguyen,nielsendiana@example.org,2866156715,RE/MAX,19,3.6,2012-04-04
+AG01772,Jason,Hicks,cameronmeyer@example.org,828-329-9436,eXp Realty,1,3.0,2022-09-24
+AG02190,Brittany,Zamora,msantana@example.org,001-870-228-7502x91770,Keller Williams,25,2.8,2024-06-16
+AG02215,Craig,Brown,rangelchristopher@example.org,7513097054,Compass,27,2.6,2017-10-20
+AG01135,Alyssa,Orr,joseph75@example.net,+1-608-556-9737,Independent,14,4.6,2025-07-10
+AG00932,Vincent,Daniel,ghunter@example.com,(365)245-5321x614,Independent,29,4.0,2025-05-12
+AG02663,Joshua,Pierce,nicolefrederick@example.net,001-297-504-5498x78624,Keller Williams,24,3.8,2020-06-03
+AG02805,Jamie,Patrick,uknox@example.com,001-586-938-2109,eXp Realty,13,4.8,2023-08-15
+AG02932,Jasmine,Petersen,jwoodard@example.net,(994)565-0998x886,Redfin,34,3.7,2018-06-11
+AG00614,Christopher,Frye,jchoi@example.net,+1-494-808-8744x98593,Berkshire Hathaway HomeServices,12,4.9,2017-01-25
+AG00114,Steven,Stewart,jroy@example.org,00132821259247277,Independent,30,3.6,2022-07-11
+AG00750,Phillip,Cook,brivera@example.net,524.506.7793x59791,Coldwell Banker,6,3.9,2015-09-02
+AG00696,Bridget,Gonzalez,bakerjim@example.net,001-775-771-5751x98070,Coldwell Banker,3,7.5,2022-09-22
+AG01964,Ana,Jones,christina39@example.org,+1-307-967-8306x75005,Sotheby's International,28,4.4,2023-08-30
+AG00276,Beth,Ray,Beth.Ray@@invalid,797.365.7605x1354,Independent,17,4.3,2014-12-13
+AG01240,Cameron,Cardenas,julia21@example.net,558.616.3487x3675,Coldwell Banker,30,4.4,2012-09-13
+AG02265,Todd,Smith,shanegood@example.org,239-278-5397,RE/MAX,20,2.9,2019-03-02
+AG01004,Eddie,Santiago,qcruz@example.net,368-997-3714x18110,eXp Realty,29,2.7,2013-04-25
+AG02581,Dana,Snow,pamela16@example.org,(903)213-3524x320,Coldwell Banker,30,3.6,2021-07-30
+AG02659,Joshua,Jones,connoralexander@example.net,(774)413-7118,Compass,0,5.0,2016-11-03
+AG02513,Brian,Holloway,michaelphillips@example.com,(358)273-1657x99539,Redfin,34,4.1,2018-05-14
+AG01391,Brian,Patel,brandon03@example.net,(864)949-6873x17256,Redfin,16,4.1,2022-06-03
+AG02340,Karen,Villanueva,mark71@example.com,3254458782,Redfin,13,7.5,2013-12-12
+AG01213,Leroy,Gonzalez,laura94@example.org,449-979-8932x9146,Keller Williams,1,3.9,2020-07-13
+AG00190,Lisa,Taylor,charlesruiz@example.net,227.772.7006x836,Berkshire Hathaway HomeServices,24,3.9,2017-08-22
+AG01691,Monique,Coffey,murphyryan@example.net,254.461.3246x45205,Berkshire Hathaway HomeServices,9,3.6,2023-07-17
+AG02894,Amy,Turner,burnsabigail@example.com,+1-233-939-0036x3779,Independent,18,3.8,2024-10-01
+AG00597,Brendan,Solis,wilsoncory@example.net,975-987-2612,Sotheby's International,3,3.1,2022-04-13
+AG00169,Anthony,Perez,johnsonshannon@example.org,226-281-0964,Keller Williams,30,4.2,2016-06-02
+AG02101,Mark,Hobbs,porterdaniel@example.net,(694)359-4145x2344,RE/MAX,0,4.0,2023-06-10
+AG01364,Maria,Smith,mariowebb@example.org,332.908.4002x7849,Compass,14,3.3,2017-09-29
+AG02569,Manuel,Wilson,bakerronald@example.net,9757723270,Independent,25,4.2,2017-04-10
+AG00570,Barbara,Rodriguez,asmith@example.net,001-586-434-9160x34786,Berkshire Hathaway HomeServices,11,4.1,2014-06-12
+AG01190,Alexander,Barber,james65@example.org,988.221.3700,Berkshire Hathaway HomeServices,3,3.1,2021-01-18
+AG02082,Christine,Daniels,summersandrew@example.org,699.444.2617x700,Sotheby's International,17,2.7,2023-09-21
+AG00056,Jeremy,Diaz,debra82@example.org,435.368.6730,Keller Williams,31,2.5,2013-09-30
+AG01161,Robert,Stokes,nicole81@example.net,592-616-6623x55610,Keller Williams,10,4.2,2012-10-24
+AG02774,William,Ibarra,jasmine98@example.org,6215830358,Century21,12,3.7,2022-02-19
+AG00393,David,Davis,mitchelltara@example.org,+1-991-385-7004x1783,Keller Williams,7,4.3,2022-02-05
+AG02208,Emily,Wright,rebeccaolson@example.net,+1-380-442-0330x0459,RE/MAX,28,3.3,2017-02-03
+AG00649,Nicholas,Young,crystalschneider@example.org,(344)674-0997x9813,RE/MAX,14,3.1,2022-09-11
+AG00251,Pamela,Mullen,millertommy@example.net,323.728.4893,eXp Realty,4,3.8,2011-11-05
+AG02574,Paul,Thomas,qgill@example.net,(929)848-5858,Redfin,0,4.4,2018-02-16
+AG00046,Elizabeth,Brown,aberry@example.net,338391484969295,Compass,20,4.8,2011-10-08
+AG02118,Travis,Mueller,torresdaniel@example.net,+1-820-596-3764x673,Redfin,22,4.7,2016-05-24
+AG00790,Sarah,Davila,kmcconnell@example.net,976-541-6106,Century21,12,2.7,2019-09-07
+AG01571,Scott,Lee,hhiggins@example.net,+1-741-215-2276x4031,RE/MAX,29,2.9,2025-05-12
+AG00715,April,Gomez,amber17@example.com,001-286-936-5838x29410,Independent,29,2.6,2022-12-03
+AG01629,Daniel,Jones,stephaniejames@example.net,915.511.1720,Keller Williams,5,3.8,2019-01-30
+AG02179,Brett,Mcdonald,janetstevens@example.com,673.530.2723x550,Independent,16,2.7,2021-02-12
+AG00410,Michael,Hughes,wdelgado@example.org,718-411-6493,Century21,7,3.0,2019-03-31
+AG00724,Ronald,Avery,xnelson@example.com,+1-914-256-7627x43847,Redfin,24,2.6,2011-07-23
+AG02500,Claire,Washington,Claire.Washington@@invalid,001-369-464-7066x674,Berkshire Hathaway HomeServices,3,4.7,2015-04-03
+AG01316,Michael,Wyatt,reyesamy@example.org,001-953-489-2541x1008,Redfin,29,4.5,2024-09-09
+AG00488,Chelsea,Lopez,Chelsea.Lopez@@invalid,001-883-297-6575,Berkshire Hathaway HomeServices,34,4.2,2024-08-16
+AG02934,Kevin,Daniels,lopezandrea@example.net,(264)915-2154x221,Redfin,23,2.9,2023-02-13
+AG02041,Lisa,Martin,lori45@example.net,001-385-856-8644x72279,Keller Williams,6,5.0,2011-09-18
+AG00194,Karl,Brown,valdezeric@example.org,497-761-9451x08075,Independent,24,3.4,2012-05-26
+AG01477,Ashley,Moore,phillipsmichelle@example.com,837.290.3882,Keller Williams,30,2.5,2014-03-11
+AG02521,Kara,Wong,howard75@example.org,3076726204,RE/MAX,2,7.5,2020-05-13
+AG02375,Maxwell,Flowers,Maxwell.Flowers@@invalid,+1-590-817-7746x66370,Redfin,20,4.6,2012-07-08
+AG02355,John,Torres,carlsonjason@example.org,(286)760-5259x02354,Compass,3,4.5,2016-06-14
+AG02692,Laura,Kelly,qortiz@example.org,+1-209-507-1587,Coldwell Banker,7,2.9,2025-03-23
+AG01775,Deborah,Brooks,pmoore@example.net,638.248.0950,Redfin,9,4.8,2021-07-29
+AG02303,Michael,Ramos,eric30@example.org,131963687448391,Independent,11,4.9,2019-02-13
+AG00955,Ryan,Bond,peggy56@example.org,19753189411265,Keller Williams,32,3.9,2022-02-09
+AG02585,Katherine,Chapman,kingjared@example.net,+1-599-265-4454,RE/MAX,20,4.9,2015-12-12
+AG02197,Danielle,Aguilar,ryannicholson@example.net,620-682-1985,Sotheby's International,7,3.9,2025-01-20
+AG02889,Debra,Walker,conradkimberly@example.org,001-877-810-8577,Independent,28,4.2,2019-01-08
+AG01660,Mark,Chandler,brandidodson@example.com,255.825.2523x5617,Sotheby's International,8,4.0,2017-05-16
+AG02897,Jessica,Harper,stanleykelly@example.net,(552)311-4517,Sotheby's International,21,3.2,2020-10-13
+AG01546,Beverly,Rivas,Beverly.Rivas@@invalid,869-628-7947x2702,Independent,22,2.9,2016-12-12
+AG00660,Paige,Page,jacquelinefreeman@example.com,608-965-8076,Century21,3,3.1,2014-12-20
+AG02989,John,Johnson,alexalexander@example.com,880-366-2934,Independent,29,3.9,2025-01-31
+AG01346,Aaron,Benitez,scottmartin@example.com,001-812-998-2867,eXp Realty,4,4.5,2016-01-01
+AG02097,Teresa,Ochoa,nicole95@example.com,784-997-2352,Compass,8,4.7,2017-03-07
+AG01719,Adrian,Wallace,cooperphillip@example.net,925.702.3648x701,RE/MAX,0,4.1,2020-12-08
+AG00681,Steven,Montgomery,fgomez@example.com,610.755.5916,Redfin,15,2.7,2015-11-16
+AG00803,Courtney,Ward,orodriguez@example.net,611.674.2341x2630,Compass,29,3.9,2025-03-15
+AG00809,Duane,Villegas,garciamarcus@example.com,001-731-864-9099,Redfin,10,4.8,2020-08-30
+AG01289,Peter,Christian,Peter.Christian@@invalid,997-304-0320x214,eXp Realty,25,4.2,2013-11-18
+AG00030,Phillip,Ramirez,cthomas@example.org,001-721-664-1848,Berkshire Hathaway HomeServices,9,4.8,2014-08-08
+AG02942,Kathryn,Krueger,Kathryn.Krueger@@invalid,875682247267883,Redfin,17,3.9,2026-02-25
+AG00075,Monica,Young,michellehernandez@example.net,001-292-745-4534,RE/MAX,27,3.1,2013-07-22
+AG00901,Patrick,Simmons,martinjennifer@example.net,(275)918-2285x91159,eXp Realty,16,7.5,2019-07-25
+AG00732,Henry,Duffy,pamela59@example.net,470-576-5856,Berkshire Hathaway HomeServices,34,3.2,2025-02-01
+AG00313,Cynthia,Baker,matthewjohnson@example.org,(910)679-1852x811,Keller Williams,5,4.9,2015-02-07
+AG00544,Jason,Kane,ybecker@example.org,001-782-639-7124x3614,Coldwell Banker,34,4.0,2011-09-11
+AG02119,William,Schmidt,theresa33@example.com,(963)438-0635x50326,Sotheby's International,21,4.0,2014-04-26
+AG01839,Edward,Jackson,arnoldfaith@example.net,+1-319-271-6975x9125,Redfin,7,4.9,2016-06-20
+AG00468,Brian,Roberts,collinsmelanie@example.org,713-855-1441x6144,Keller Williams,17,3.8,2018-12-04
+AG01938,Gina,Willis,jaime33@example.com,(460)974-9398,Century21,12,4.3,2014-08-19
+AG02674,Mark,Wilson,bishopmichael@example.net,(384)958-5731,Century21,8,4.3,2023-02-04
+AG00901,Patrick,Simmons,martinjennifer@example.net,(275)918-2285x91159,eXp Realty,16,7.5,2019-07-25
+AG02801,Claudia,Miller,michael56@example.com,(741)690-4467x02900,eXp Realty,30,2.6,2023-06-15
+AG02867,Pamela,West,juan14@example.net,946-810-5237,eXp Realty,11,3.2,2024-05-02
+AG00308,Austin,Smith,lewislee@example.net,001-709-466-7660x14086,Berkshire Hathaway HomeServices,6,3.7,2017-04-18
+AG02719,Shawn,Thompson,robinsonchelsea@example.com,587-315-7906x122,Berkshire Hathaway HomeServices,23,3.4,2016-03-15
+AG02400,Dennis,Morgan,fbaker@example.com,001-624-900-7706,Compass,9,4.3,2024-11-30
+AG00988,Sandra,Cruz,garciakevin@example.org,624-714-0597x914,eXp Realty,20,2.7,2018-11-29
+AG01138,Louis,Ross,bradley48@example.com,261-294-5647x61823,RE/MAX,11,4.0,2018-10-26
+AG00541,Heather,Morgan,kwebster@example.com,875-631-0363,Keller Williams,29,3.1,2022-07-20
+AG00936,Derrick,Taylor,william77@example.net,913-824-5695,Century21,21,2.6,2016-07-15
+AG01489,Hailey,Dennis,sanchezmichelle@example.org,597-881-2582,eXp Realty,8,7.5,2024-04-05
+AG00573,Alexis,Stone,timothylewis@example.org,241.587.8868,eXp Realty,33,3.2,2021-10-05
+AG01471,Miguel,Johnson,santosapril@example.com,353.797.3674x627,Keller Williams,3,2.7,2023-05-06
+AG02551,Laura,Russo,travisfox@example.net,+1-912-944-3039,Compass,23,3.4,2024-04-14
+AG02621,Matthew,Moore,Matthew.Moore@@invalid,(911)806-9654,Sotheby's International,11,7.5,2017-08-19
+AG01773,Mark,Gordon,sherrybrown@example.com,583-760-5030x128,RE/MAX,11,4.9,2023-04-24
+AG02870,Melissa,Massey,glassmark@example.net,683-504-4206x04585,Century21,11,2.9,2016-10-18
+AG00892,April,Snyder,erin18@example.com,373.420.7753x29869,eXp Realty,34,2.5,2013-02-05
+AG00918,Colin,Anderson,vcook@example.com,(307)698-0778,Redfin,16,4.4,2012-12-10
+AG02773,Anna,Flynn,hstevenson@example.org,001-642-935-6164x495,Keller Williams,3,4.1,2011-09-09
+AG01488,Christopher,Cochran,jacoblynch@example.org,423.602.6937,eXp Realty,16,3.5,2023-07-23
+AG00974,Donald,Snyder,idiaz@example.net,+1-808-970-0443x864,Berkshire Hathaway HomeServices,1,4.2,2016-11-23
+AG02597,Kelsey,White,lindaadkins@example.org,989.855.4308x713,Independent,27,4.3,2012-07-02
+AG00033,Veronica,Stein,jonestiffany@example.com,293-551-9827,Independent,29,4.1,2013-09-28
+AG01576,Danny,Copeland,joe60@example.com,001-790-811-9135,eXp Realty,20,5.0,2024-07-19
+AG01833,Brian,Edwards,knappmegan@example.net,8588877253,Coldwell Banker,18,4.0,2023-03-24
+AG00841,Tiffany,Smith,reeveslaura@example.net,(584)523-4105x765,Sotheby's International,31,3.6,2024-12-17
+AG02535,Kathryn,Reynolds,ferrelljasmine@example.net,(887)507-0416,Berkshire Hathaway HomeServices,29,4.1,2012-12-11
+AG01655,Megan,Cameron,brownhunter@example.com,(995)201-9424x540,Keller Williams,31,4.0,2019-08-14
+AG02713,Susan,Soto,davidsondaniel@example.com,(354)295-5781,eXp Realty,7,3.3,2016-09-27
+AG01090,Scott,Rogers,wolfemary@example.net,283-719-4247x94116,Redfin,22,4.5,2021-03-14
+AG00357,Shelia,Alvarado,kevin13@example.org,001-949-773-0574,Century21,17,4.5,2014-05-05
+AG01469,Marcia,Roach,zmorales@example.net,(590)727-0965x697,Keller Williams,22,4.0,2018-12-24
+AG00641,Martin,Fisher,cunninghamkathleen@example.net,+1-625-733-1992,Coldwell Banker,7,4.3,2016-12-02
+AG02721,Jeanette,Palmer,ecline@example.org,4532230390,Compass,5,4.4,2012-08-04
+AG00545,Elizabeth,Lewis,jamesmichael@example.com,368-311-9867x3759,Coldwell Banker,10,3.1,2012-10-13
+AG00214,Kendra,Harrell,staceymoran@example.net,001-525-553-5560x6449,Sotheby's International,28,2.5,2013-10-12
+AG01572,Michelle,Alvarez,ediaz@example.net,7334642927,eXp Realty,30,4.9,2013-10-18
+AG02051,Randall,Haynes,mark23@example.com,+1-780-998-5403x0283,Compass,0,2.9,2021-10-29
+AG00702,Anne,Rasmussen,thomas14@example.com,001-311-356-3043x47564,Berkshire Hathaway HomeServices,5,3.1,2014-07-03
+AG02200,Charles,Gutierrez,dpaul@example.com,+1-280-717-8198x5704,Compass,4,2.6,2022-01-02
+AG00273,Gavin,Miller,svelazquez@example.com,(530)568-8589x70599,Berkshire Hathaway HomeServices,21,4.7,2020-06-14
+AG02951,Olivia,Arroyo,aaronmorris@example.org,765.405.6708x708,Coldwell Banker,12,3.2,2024-04-30
+AG01562,Angela,Jenkins,Angela.Jenkins@@invalid,3156269896,Coldwell Banker,34,2.9,2018-12-22
+AG02034,Danielle,Hansen,jamesfuller@example.org,001-322-239-9476,Keller Williams,3,4.9,2014-10-13
+AG00012,Ian,Hammond,melissa19@example.net,+1-947-996-3219x0903,Keller Williams,4,4.2,2021-06-07
+AG00689,Kelsey,White,hernandezbailey@example.org,001-831-293-1551x7732,Berkshire Hathaway HomeServices,5,3.1,2020-11-17
+AG00712,Eric,Smith,dudleydaniel@example.org,4917246323,Independent,31,4.8,2019-06-27
+AG01910,Jill,Stewart,matthewgomez@example.com,661.320.1862,Redfin,14,3.4,2011-10-05
+AG01416,Steven,Crawford,scott89@example.org,452.888.3974x3006,Century21,11,4.9,2017-05-21
+AG00584,Alexis,Rocha,matthew63@example.org,577.729.0311,Independent,27,4.9,2023-01-05
+AG01698,Monique,Wall,uwood@example.com,001-318-610-0978,RE/MAX,14,3.9,2024-07-09
+AG01737,Beverly,Davis,susanandrade@example.org,427-506-1645,Century21,28,3.7,2011-10-23
+AG02833,John,Ramirez,bmiller@example.org,653-272-3256x5168,eXp Realty,27,3.5,2013-08-06
+AG00779,Timothy,Davis,wongmatthew@example.net,908.822.0296,RE/MAX,1,2.5,2013-07-30
+AG02550,Margaret,Smith,marthawilson@example.org,001-685-594-1468,Berkshire Hathaway HomeServices,9,4.5,2017-08-08
+AG01887,Todd,Lee,feliciacain@example.org,+1-823-628-1384x5720,Berkshire Hathaway HomeServices,14,3.4,2019-01-29
+AG00015,Erin,Turner,Erin.Turner@@invalid,416.938.7252,Compass,7,4.6,2022-11-26
+AG00760,Rebecca,Hill,taylorbrandon@example.net,328-507-1383,Berkshire Hathaway HomeServices,8,2.7,2018-08-24
+AG00742,Ray,Simpson,grahamjesse@example.org,(652)673-2735x72999,Berkshire Hathaway HomeServices,11,4.1,2015-07-02
+AG00591,David,Mills,wrose@example.net,356-973-6056x099,eXp Realty,17,4.9,2012-08-26
+AG01865,Sierra,Garcia,roy48@example.com,966-444-9411x62683,Century21,18,2.6,2018-10-11
+AG00154,Meredith,Shelton,pateljeffrey@example.com,001-420-292-4375,Compass,3,4.5,2013-04-11
+AG01153,Jacob,Ewing,jon64@example.org,+1-325-634-7010x48039,RE/MAX,12,4.7,2020-03-16
+AG01341,Jennifer,Hogan,maureenbranch@example.org,466955059485738,eXp Realty,15,2.7,2024-03-11
+AG00979,Lisa,Lawrence,nwoods@example.com,001-565-275-0934x62308,Compass,13,4.1,2020-11-06
+AG02390,Colleen,Thompson,russomichael@example.net,001-488-985-0122x802,RE/MAX,31,3.1,2020-06-02
+AG02212,Dustin,Krause,loritravis@example.org,898.792.4594x56182,Coldwell Banker,10,3.3,2024-05-13
+AG00304,Dana,Nichols,edwardsmelinda@example.net,864-219-4683x443,Century21,32,4.4,2014-05-25
+AG00399,Jeremy,Murray,moorejessica@example.org,(615)846-7735x09927,Sotheby's International,0,3.1,2019-11-18
+AG02291,Angie,Pierce,andrea82@example.com,689.964.4590,Coldwell Banker,20,2.9,2017-02-15
+AG02555,Natalie,Nguyen,qmaddox@example.net,891-633-9422,Sotheby's International,27,3.6,2017-08-01
+AG01752,Jeffery,Boyer,lsmall@example.com,001-589-278-2370x500,Coldwell Banker,11,2.7,2012-12-21
+AG01444,James,Mullins,curtislewis@example.org,001-300-891-0133x4081,Redfin,27,4.3,2013-01-22
+AG00835,Connor,Reyes,erin18@example.net,3107173793,Century21,30,3.9,2014-11-22
+AG02272,Patricia,Bush,jeffreyhenry@example.org,707.809.7227,eXp Realty,17,4.7,2013-09-10
+AG01281,William,Edwards,William.Edwards@@invalid,001-352-514-8331,RE/MAX,21,7.5,2012-10-03
+AG00142,Mark,Harper,Mark.Harper@@invalid,380.950.8962x8754,Keller Williams,27,3.6,2018-09-19
+AG02419,Johnathan,Stewart,jasoncook@example.com,(771)313-5539,Independent,30,3.6,2023-05-23
+AG00958,Roberta,Mcintyre,pcarlson@example.org,(809)865-0310,Century21,15,4.3,2024-12-30
+AG02646,Emily,Mcclure,lisabaker@example.com,7367089848,Coldwell Banker,9,4.6,2025-11-20
+AG00034,Barbara,Moore,warrenmelissa@example.net,487-843-4684x1420,Compass,20,2.6,2020-12-24
+AG01568,Christopher,Hernandez,cwilkerson@example.net,7349968211,RE/MAX,0,4.9,2012-07-20
+AG02112,Steven,Cole,wrighteric@example.net,(424)795-1268x095,Coldwell Banker,17,4.4,2025-10-04
+AG00554,Miguel,Jones,kevin35@example.com,707.871.1907x855,Keller Williams,18,3.9,2018-12-28
+AG01840,Gregory,Moore,qpineda@example.org,558.295.6224x1274,eXp Realty,18,3.8,2021-01-06
+AG01018,Jennifer,Caldwell,shanesmith@example.org,991-691-9047,Keller Williams,11,4.8,2019-01-19
+AG00944,Sharon,Wells,jeffrey06@example.com,972-339-5454x18035,Compass,11,2.8,2018-11-24
+AG01535,Deborah,Davis,adamstracy@example.net,512.300.2878,Sotheby's International,31,4.0,2022-03-03
+AG02698,Kimberly,Irwin,lsmith@example.net,+1-925-533-8949x108,Century21,3,4.6,2017-12-28
+AG00266,Debbie,Walker,srobinson@example.com,534.534.9103x6352,Coldwell Banker,26,3.2,2015-05-06
+AG01680,Joseph,Mayer,ehamilton@example.net,(709)798-4874x55843,Coldwell Banker,0,3.4,2021-12-18
+AG01948,Tammy,Harris,erikjames@example.net,978-959-4631,Coldwell Banker,1,4.9,2026-04-10
+AG01857,Cameron,Smith,andrew27@example.com,001-603-803-3050x640,Century21,28,3.7,2023-03-05
+AG00719,Michelle,Reynolds,clarkelizabeth@example.com,001-771-935-1323,Compass,9,4.1,2019-08-17
+AG01668,Barbara,Harper,Barbara.Harper@@invalid,+1-793-999-0225x428,Keller Williams,7,4.6,2025-02-21
+AG00497,Jennifer,Crane,freemantodd@example.net,889-305-5877,eXp Realty,16,5.0,2024-04-02
+AG02335,Tracy,Smith,Tracy.Smith@@invalid,(393)214-5872,Century21,6,4.4,2018-09-15
+AG01620,Sara,Deleon,fhardy@example.org,+1-420-768-1514x489,Coldwell Banker,24,3.0,2018-01-23
+AG00550,Benjamin,Johnson,catherineford@example.com,8753148958,Independent,23,3.8,2024-12-13
+AG01982,Cheryl,Mora,moorediana@example.net,+1-538-979-0656,Redfin,4,4.4,2013-01-24
+AG01720,Monica,Sexton,joelsmith@example.net,+1-873-574-3028x82070,Berkshire Hathaway HomeServices,5,3.1,2015-01-12
+AG00014,Sharon,Garcia,chelseahenderson@example.org,878.572.1515x1817,RE/MAX,27,3.1,2024-06-06
+AG00994,Karl,Mitchell,susanmeyer@example.net,693-328-4530,Coldwell Banker,12,3.2,2013-01-08
+AG02171,Steven,Ritter,stevenwalker@example.org,(836)505-6856x2355,Sotheby's International,32,4.1,2023-03-18
+AG02311,Morgan,Collins,katherinemartinez@example.org,+1-358-326-1735x638,eXp Realty,26,3.1,2018-02-08
+AG00111,Adam,Simon,eolsen@example.org,696-700-3057x55200,eXp Realty,5,4.1,2017-01-25
+AG00525,Billy,Ryan,fisherdawn@example.org,829.601.2417,Sotheby's International,13,4.9,2023-04-29
+AG00422,Timothy,Peck,millerbruce@example.org,+1-781-974-5205x168,Keller Williams,17,4.9,2013-05-27
+AG01024,John,Smith,yhall@example.org,001-867-670-2027x79168,Century21,5,3.3,2011-08-07
+AG01428,Daniel,Edwards,teresa86@example.net,+1-947-203-3654x98391,Century21,16,3.4,2018-07-22
+AG01670,Michael,Anderson,fryan@example.org,6924244971,Keller Williams,26,3.5,2025-08-24
+AG02935,Michael,Quinn,simmonsbrooke@example.org,001-778-877-7326x896,Berkshire Hathaway HomeServices,12,4.2,2015-01-13
+AG01839,Edward,Jackson,arnoldfaith@example.net,+1-319-271-6975x9125,Redfin,7,4.9,2016-06-20
+AG01667,Taylor,Nguyen,jeffrey57@example.org,(225)384-7877x0590,Century21,5,2.6,2026-03-01
+AG02274,Jeremy,Sharp,leecrystal@example.com,(381)874-0846,Compass,8,3.1,2024-11-12
+AG01421,Michael,Benson,brian47@example.net,+1-423-839-8652,Century21,34,2.6,2015-09-25
+AG02042,David,Randall,suttonjackson@example.net,+1-665-654-1316,Sotheby's International,21,3.7,2019-03-11
+AG01146,Veronica,Walker,Veronica.Walker@@invalid,(672)384-2303x81867,RE/MAX,15,3.8,2012-02-22
+AG01592,Brooke,Castillo,msingh@example.org,001-442-397-1798,Coldwell Banker,1,3.1,2020-01-10
+AG01893,Beth,Weeks,carolyn70@example.org,746.670.7789x178,RE/MAX,8,4.1,2013-02-27
+AG01081,Jennifer,Henderson,cwilson@example.org,(780)920-5309x011,Redfin,4,3.5,2022-04-02
+AG01424,Juan,Taylor,douglasbrandon@example.net,812-809-4701x227,Berkshire Hathaway HomeServices,22,4.7,2015-08-28
+AG00872,Ricky,Sherman,angelajohnson@example.com,875.817.3245,Redfin,19,4.2,2022-03-23
+AG00188,Austin,Horne,kiddstephanie@example.com,460.418.8702x1373,Century21,34,2.5,2015-09-20
+AG02835,Jeremy,Patton,christophertaylor@example.com,001-574-928-0422x0580,Century21,19,3.2,2020-02-25
+AG02770,Lynn,Garcia,nmelton@example.net,305.412.9920x57105,Sotheby's International,14,4.2,2022-09-09
+AG01198,Rebecca,Powers,parkerjames@example.net,001-904-924-8379x732,Sotheby's International,5,3.6,2014-10-22
+AG01365,Juan,Davis,thill@example.com,259-379-2741x2746,Independent,21,4.0,2013-02-26
+AG00814,Joseph,Hernandez,jeremy03@example.net,+1-260-821-4224x5144,Century21,27,3.4,2020-05-24
+AG01872,James,Watson,payneandrea@example.net,768.527.4184,Keller Williams,26,3.1,2013-12-18
+AG01511,Rebecca,Finley,dwatson@example.org,876-541-5594x8254,Coldwell Banker,27,4.9,2014-04-10
+AG01455,Anthony,Chandler,maciasjohnny@example.com,001-623-913-2294x72641,Keller Williams,27,2.8,2023-04-05
+AG02820,Brian,Williams,samanthawebster@example.org,992.606.1002x49647,eXp Realty,8,4.2,2023-06-25
+AG01641,Stacy,Guerrero,smithsteven@example.org,714-279-9287x332,Redfin,33,4.4,2022-01-08
+AG00738,Stacey,Mcbride,morantimothy@example.org,+1-328-573-2461,Century21,8,4.0,2017-10-08
+AG02622,Philip,Green,mparker@example.com,+1-884-662-8382x280,Sotheby's International,21,2.6,2014-09-09
+AG02226,Heather,Jones,stephanie61@example.net,44751588567935,Berkshire Hathaway HomeServices,12,4.9,2017-11-04
+AG00510,Kelly,Fields,anthony35@example.net,001-550-840-8715,RE/MAX,22,2.7,2012-03-16
+AG02601,Michael,Lynn,james78@example.com,960.970.0873x0677,RE/MAX,11,4.8,2020-01-01
+AG02630,Rachel,Foster,maureen31@example.org,001-647-921-9331,Sotheby's International,14,4.4,2024-09-05
+AG00954,Matthew,Patel,sherryadkins@example.com,357-335-1348x6374,Independent,11,4.8,2024-08-01
+AG00432,Kristen,Owens,ganderson@example.com,343.230.6296x587,RE/MAX,15,2.7,2017-03-14
+AG02701,Rodney,Campbell,pamelacurtis@example.com,293-453-2402,Compass,18,4.2,2024-11-02
+AG02100,Elizabeth,Bailey,christopher87@example.com,1538865416524323,Berkshire Hathaway HomeServices,17,3.8,2017-05-17
+AG02984,Samuel,Ortiz,amandalane@example.net,001-390-738-1750x6586,eXp Realty,15,4.7,2026-01-17
+AG00293,Theresa,Gonzalez,grant43@example.com,+1-503-590-4449x37830,Keller Williams,28,3.3,2020-11-23
+AG02837,Kristin,Torres,uthompson@example.net,990.696.2786,Independent,15,3.3,2024-11-03
+AG02796,Bradley,Cox,fernandezdiana@example.net,493-805-8998x680,Compass,25,3.1,2019-08-28
+AG01741,Ronnie,Nicholson,robertjackson@example.com,408.387.5394x970,Berkshire Hathaway HomeServices,5,5.0,2021-07-30
+AG01158,Victoria,Lee,joshua58@example.com,+1-498-942-2748x45617,Century21,14,2.7,2025-07-17
+AG00176,Brittany,Brooks,hunter52@example.com,(666)988-5287x0654,Century21,4,4.8,2015-07-26
+AG00042,Jon,Reyes,ryan28@example.com,9203624076,Independent,31,3.1,2022-12-09
+AG00780,Gary,Buckley,robert86@example.net,+1-860-960-3133x309,Keller Williams,8,2.9,2018-12-05
+AG02309,Martin,Daniel,kellie01@example.com,(663)286-9448x74162,Compass,29,4.6,2016-11-19
+AG02385,Kimberly,Williams,nicole04@example.com,311-294-0576,Redfin,30,5.0,2022-06-09
+AG01666,Michael,Alexander,gregoryschwartz@example.org,+1-543-934-7629,Coldwell Banker,5,4.3,2013-04-26
+AG02643,Kristina,James,bryan76@example.com,+1-321-255-7523x0333,Redfin,29,3.3,2023-01-29
+AG02754,Kevin,Miller,wsmith@example.com,463-259-6368,Redfin,14,2.8,2018-04-10
+AG01936,Roy,Atkinson,jeanettefarrell@example.net,7983159415,Keller Williams,21,4.4,2024-09-19
+AG02958,Amanda,Scott,mary75@example.com,4774814234,Keller Williams,4,3.1,2017-07-11
+AG02347,Pamela,Lewis,justin85@example.com,760.271.4910,Compass,22,3.2,2016-12-12
+AG02053,Heather,Martinez,jared58@example.org,+1-224-853-6904x09477,Berkshire Hathaway HomeServices,16,3.6,2012-01-20
+AG02015,Jeffrey,Wong,gmorrow@example.org,(954)836-4440x63162,Century21,4,3.6,2021-05-22
+AG00797,Megan,Rodriguez,dustinlynch@example.net,242.888.1516x188,Independent,19,3.3,2017-10-09
+AG01375,Brian,Dixon,natalielee@example.net,380.884.1064,Independent,30,4.8,2024-12-20
+AG02848,Sarah,Horne,jonathan57@example.com,475-298-7631,Independent,7,7.5,2019-06-20
+AG00137,Jorge,Mathews,david73@example.net,748-317-9309x3270,Coldwell Banker,8,3.6,2019-06-26
+AG01051,Eric,Rodriguez,alfredwright@example.com,459.351.0369x6780,Redfin,20,4.8,2014-03-14
+AG00949,Randall,Knox,kenneth28@example.net,+1-239-293-2173x908,Keller Williams,0,3.0,2023-06-04
+AG02904,Dylan,Mitchell,elizabeth68@example.org,823.356.8375,Sotheby's International,32,4.4,2021-11-10
+AG01504,Dorothy,Garner,duffykayla@example.net,001-537-419-2390,Sotheby's International,29,3.3,2024-04-17
+AG00190,Lisa,Taylor,charlesruiz@example.net,227.772.7006x836,Berkshire Hathaway HomeServices,24,3.9,2017-08-22
+AG02850,Emily,Merritt,rmitchell@example.org,848.991.4586x70594,Redfin,1,3.3,2023-11-05
+AG00767,Brian,Brown,ythompson@example.com,+1-726-754-2229x1962,Sotheby's International,34,5.0,2018-08-02
+AG00863,Joshua,Baker,gary49@example.com,+1-318-236-5759x84198,Berkshire Hathaway HomeServices,25,3.2,2017-04-10
+AG01457,Mary,Singleton,dpayne@example.com,(243)424-8813x317,Redfin,8,4.8,2015-12-08
+AG02809,Dalton,Jenkins,stephensonjoel@example.com,(315)935-5816x934,Berkshire Hathaway HomeServices,6,3.1,2022-09-27
+AG00919,Holly,Walsh,jasminewise@example.com,001-685-229-8835x734,eXp Realty,26,4.5,2013-09-08
+AG00742,Ray,Simpson,grahamjesse@example.org,(652)673-2735x72999,Berkshire Hathaway HomeServices,11,4.1,2015-07-02
+AG01796,Clarence,Lee,sbrown@example.org,972-857-0360x307,Century21,21,3.8,2014-04-30
+AG02036,Patricia,Walls,williamchavez@example.com,+1-268-570-7542x018,Sotheby's International,27,3.5,2022-08-23
+AG00304,Dana,Nichols,edwardsmelinda@example.net,864-219-4683x443,Century21,32,4.4,2014-05-25
+AG01050,Joanna,Zavala,yyoung@example.org,210-310-8972x282,Sotheby's International,14,3.4,2018-07-07
+AG02736,Jacqueline,Rosales,kimberly05@example.net,0016135256386199,Berkshire Hathaway HomeServices,29,2.5,2024-06-30
+AG02246,Amy,White,brittanyleon@example.com,427-428-0128x70598,Coldwell Banker,25,4.9,2020-04-13
+AG00268,Mark,Adams,ssampson@example.com,(394)839-5071,eXp Realty,14,2.5,2013-03-12
+AG02463,David,Gutierrez,williamsrichard@example.com,503.977.9862x5010,eXp Realty,23,3.0,2025-06-13
+AG01030,Michael,Smith,dcampos@example.net,(881)322-8930,Independent,11,2.7,2024-02-15
+AG01822,Albert,Owens,johnbender@example.com,001-781-584-0111x705,Coldwell Banker,33,2.9,2026-06-03
+AG01884,Mackenzie,Fernandez,alicia32@example.com,001-626-402-9403x265,Coldwell Banker,19,4.3,2017-12-06
+AG01544,Donna,Lindsey,mdiaz@example.net,(364)589-9206x15715,Coldwell Banker,1,3.8,2012-05-11
+AG02828,Thomas,Rose,lindacabrera@example.org,242-314-7553x1546,Compass,29,5.0,2015-03-26
+AG00257,Rachel,Ortiz,landrade@example.com,858-714-5413,Berkshire Hathaway HomeServices,4,2.6,2011-08-31
+AG00645,Carolyn,Smith,hunterrobert@example.org,(223)381-9179,Keller Williams,25,7.5,2021-08-04
+AG02447,Lisa,Larson,michelle77@example.com,001-756-821-5993,RE/MAX,14,3.6,2018-06-18
+AG01262,Jennifer,Warren,mpeterson@example.net,311-983-7753x23607,Coldwell Banker,15,2.6,2016-04-01
+AG01825,Kim,Newton,michael77@example.net,(549)439-4229,Independent,2,4.3,2020-06-12
+AG02189,Leah,Ray,herbert70@example.net,7563909136,Redfin,14,4.0,2020-07-17
+AG02659,Joshua,Jones,connoralexander@example.net,(774)413-7118,Compass,0,5.0,2016-11-03
+AG00938,Michelle,Wilson,natalie43@example.org,(232)409-0430x99760,Century21,11,4.1,2015-07-21
+AG02766,Vicki,Golden,haley88@example.net,771.991.1735x451,RE/MAX,4,3.2,2019-07-21
+AG01941,Vincent,Henry,walkershawn@example.org,5213509452,Sotheby's International,30,3.3,2019-04-27
+AG02529,Barbara,Snyder,julia93@example.com,358.295.7311,Century21,5,4.7,2012-09-12
+AG02818,Carlos,Schwartz,nicoleowens@example.org,345-771-8670x391,Keller Williams,12,3.3,2023-11-24
+AG01806,Diane,Lee,qhansen@example.org,451-292-9256,Compass,9,4.9,2013-06-15
+AG02415,Sonya,Mullen,brianna59@example.org,001-779-898-7925x8107,Keller Williams,12,3.0,2024-02-25
+AG00267,Michael,Lewis,peterolson@example.org,840.866.7626x0988,Redfin,4,4.8,2024-06-10
+AG00556,Kristin,Gonzalez,lucasmaria@example.net,(615)798-8413,Sotheby's International,9,4.4,2017-01-23
+AG01374,Shawn,Jackson,rmeadows@example.com,(858)749-7722x9518,Independent,31,4.4,2018-12-20
+AG00019,Darin,Chandler,jeremyflowers@example.com,2433842967,Berkshire Hathaway HomeServices,11,4.9,2013-07-24
+AG02517,Seth,Clark,emiller@example.org,450.972.3554,Berkshire Hathaway HomeServices,34,4.8,2023-07-14
+AG00670,Robin,Byrd,julierush@example.org,(224)659-7291x8484,RE/MAX,16,4.8,2015-01-21
+AG00318,Joyce,Michael,xgrant@example.org,574-296-3042x9034,eXp Realty,16,3.5,2020-10-09
+AG00356,Kimberly,Davis,strongmichelle@example.com,(212)539-9127,Compass,31,3.3,2025-01-03
+AG00309,Raymond,Thompson,canderson@example.net,001-892-688-4030,Keller Williams,32,4.4,2016-11-10
+AG00936,Derrick,Taylor,william77@example.net,913-824-5695,Century21,21,2.6,2016-07-15
+AG00827,Tim,Rogers,marthacollins@example.org,+1-807-635-5285x48389,Independent,8,5.0,2011-10-03
+AG00054,Paula,French,chasejeffery@example.org,338-362-5703,Century21,6,2.6,2026-05-19
+AG00962,Zachary,Hall,cynthiasawyer@example.com,001-773-490-0147x485,Berkshire Hathaway HomeServices,11,2.5,2015-11-02
+AG01610,Nathan,Murray,Nathan.Murray@@invalid,965-397-4771,Sotheby's International,2,4.8,2025-02-28
+AG02031,Gerald,Reed,robinsonelizabeth@example.com,(546)739-3662x3662,Sotheby's International,11,2.8,2013-04-23
+AG00315,Donald,Benitez,william36@example.net,001-852-689-8865x66402,Coldwell Banker,30,3.7,2022-08-05
+AG01352,Catherine,Wilkinson,pachecoalex@example.net,001-666-522-7429x46615,Sotheby's International,6,3.2,2023-05-25
+AG01583,Susan,Medina,rosalesalexis@example.net,(548)547-0876,Redfin,10,4.2,2019-04-26
+AG01619,Daniel,Terry,toddwebb@example.net,(839)691-4859x43456,Coldwell Banker,16,3.9,2025-12-27
+AG01492,Tara,Buckley,aguilarebony@example.org,256.410.6946x211,Century21,12,3.0,2018-02-16
+AG02104,Nicolas,Mullins,wagnerstephanie@example.com,(940)719-6912x674,RE/MAX,30,2.6,2014-09-12
+AG01266,Stephanie,Perez,zsandoval@example.com,255.623.6906x8669,Redfin,22,4.4,2012-01-10
+AG00685,Latasha,Miller,tramos@example.net,598.810.3811x38764,Coldwell Banker,6,4.3,2013-02-09
+AG01595,Jasmine,Vazquez,Jasmine.Vazquez@@invalid,(369)943-3219x25363,RE/MAX,32,4.3,2014-09-22
+AG01408,Anna,Decker,martinchristopher@example.net,(829)815-9685,Compass,27,3.4,2022-11-05
+AG00369,Jason,Johnson,joshua83@example.com,+1-620-718-7179x84956,Coldwell Banker,27,4.7,2012-03-24
+AG01174,Deborah,Espinoza,garrettjackson@example.com,793.468.8703x69866,Compass,6,3.6,2022-12-26
+AG02844,Leah,Hayes,stephanie95@example.org,2397101335,Berkshire Hathaway HomeServices,26,3.1,2020-06-04
+AG02922,Mary,Harper,amandajohnson@example.org,+1-279-339-3154x2334,Coldwell Banker,10,4.6,2023-03-22
+AG01955,Bradley,Wolfe,Bradley.Wolfe@@invalid,(614)523-1583,Compass,2,4.1,2012-12-23
+AG01295,Daniel,Wilson,sheri68@example.net,976-485-8694,RE/MAX,20,4.9,2021-04-06
+AG00449,Gary,Martin,jose82@example.net,+1-891-890-7385x428,Compass,17,3.5,2018-11-30
+AG00844,Matthew,Caldwell,reynoldschristina@example.net,656-703-4658x419,eXp Realty,6,2.8,2012-11-13
+AG00013,Evan,Thompson,ekennedy@example.com,859.236.4118,Compass,21,4.8,2026-03-04
+AG00703,Richard,Powell,Richard.Powell@@invalid,(647)637-0382,eXp Realty,8,4.9,2018-10-16
+AG01164,Hannah,Olsen,kreynolds@example.com,001-640-234-2453x71352,Century21,18,2.8,2017-11-16
+AG02732,Jane,Guzman,rbeck@example.net,001-493-813-4105,Independent,2,2.6,2022-02-20
+AG01036,Vanessa,Harris,ronaldhowell@example.net,+1-204-750-8700x596,eXp Realty,17,3.9,2022-12-04
+AG02959,Daniel,Richardson,Daniel.Richardson@@invalid,8796355813,Century21,7,4.7,2016-02-07
+AG02464,Felicia,Potts,ambergardner@example.net,297.325.8748x7742,Independent,31,3.6,2019-02-11
+AG00110,Jennifer,Murray,laura11@example.com,(275)345-7576x0171,Keller Williams,34,4.2,2016-04-25
+AG02618,Ralph,Willis,jmorgan@example.net,20432751167275,Sotheby's International,18,4.8,2025-09-24
+AG01379,Sarah,Clark,austin82@example.net,+1-575-226-8089,Independent,23,4.0,2012-07-29
+AG02283,Mason,Wiley,nicolas64@example.com,+1-873-350-2733,Keller Williams,15,2.7,2026-01-13
+AG00675,James,Rogers,jmeyer@example.org,001-546-878-2108x22686,Keller Williams,15,3.9,2022-01-02
+AG01523,Michelle,Barrett,tmendoza@example.com,599-779-1815x82210,RE/MAX,24,3.4,2022-12-10
+AG02172,Tracy,Johnson,klee@example.net,316.605.6676,Independent,11,3.4,2015-01-25
+AG02255,Sandra,Hoffman,rbarton@example.org,001-216-240-6590x54398,RE/MAX,1,3.0,2016-01-12
+AG02499,Charles,Mccall,jamesyoung@example.net,963-213-8708x063,Keller Williams,4,4.3,2017-06-19
+AG01152,William,Daniels,shannonhernandez@example.org,4135680390,Keller Williams,0,2.7,2025-04-03
+AG01802,Rodney,Alvarez,jesusolson@example.net,+1-284-871-2779x66395,Sotheby's International,29,2.8,2016-02-05
+AG02706,Ricardo,Salazar,garciajennifer@example.com,350-565-0281,Redfin,7,3.2,2025-10-21
+AG01156,Carrie,Shaw,travisbrown@example.com,555.248.9497,Century21,22,2.5,2015-01-20
+AG02786,Maureen,Morris,Maureen.Morris@@invalid,+1-973-834-1783x2493,Century21,1,2.9,2013-03-24
+AG02651,Julia,Clark,michaelhernandez@example.org,(590)833-0496,eXp Realty,24,3.1,2016-10-09
+AG02990,Jonathan,Herrera,david19@example.org,725.424.8356x82292,Coldwell Banker,9,3.8,2022-07-24
+AG00382,Helen,Perez,racheltaylor@example.org,552.439.9730x38220,Redfin,23,2.9,2025-12-16
+AG02351,Caitlin,White,brianawalker@example.net,+1-439-852-3123x057,Coldwell Banker,8,4.7,2014-02-15
+AG02384,Tyler,Dawson,amandapatel@example.org,(673)326-7844x99260,Sotheby's International,29,3.7,2015-09-22
+AG01417,Katie,Kennedy,hernandezkayla@example.net,470-686-0560x81226,RE/MAX,14,4.0,2025-05-13
+AG01821,David,Riddle,David.Riddle@@invalid,001-525-877-3722,Century21,23,2.5,2014-06-04
+AG01730,Andrea,Bennett,dariuscarter@example.com,2994102879,Century21,26,4.5,2013-06-19
+AG01742,Miranda,Butler,coleronald@example.org,594.899.0044,Sotheby's International,18,4.4,2022-09-07
+AG01445,Amy,Cox,davismichael@example.com,001-213-566-9533x194,Sotheby's International,31,3.2,2019-02-01
+AG00736,Monica,Wilson,andersonsean@example.com,859-976-6630,Century21,16,3.7,2021-01-10
+AG02978,Rebecca,Hill,fmora@example.org,748.437.2034x78075,Berkshire Hathaway HomeServices,18,4.2,2021-02-13
+AG00951,Kimberly,Maddox,kalexander@example.com,(525)884-7052x77646,Keller Williams,26,4.0,2012-06-18
+AG02397,Tammy,Hubbard,laura29@example.net,9833286813,Century21,28,3.1,2016-08-24
+AG00324,Jeremy,Butler,fjones@example.org,570-555-3473x6731,Sotheby's International,34,4.0,2025-08-01
+AG02264,Christopher,Cameron,Christopher.Cameron@@invalid,+1-243-815-5076,Redfin,32,3.9,2020-05-24
+AG02306,Frank,Harris,mitchell53@example.net,7678948862,RE/MAX,31,4.9,2025-05-07
+AG00593,Jennifer,Mccormick,uowen@example.com,001-272-907-5173x81967,Independent,17,3.4,2018-05-26
+AG00390,Laurie,Griffith,christinenewman@example.org,270-708-9183x12583,eXp Realty,29,2.9,2022-05-22
+AG00543,Erin,Casey,xcook@example.org,001-299-200-0912x24858,RE/MAX,33,3.4,2026-03-02
+AG02089,Ricky,Martinez,karen82@example.org,508-401-0016,Redfin,7,2.5,2021-11-08
+AG01363,Julie,Lewis,woodssean@example.org,(686)934-8311x941,Independent,25,7.5,2016-08-18
+AG00289,Alexa,May,nwise@example.com,+1-330-838-1568x8515,Compass,16,2.8,2019-07-23
+AG02939,Tina,Brooks,april62@example.org,586.794.1894,Sotheby's International,26,2.8,2017-02-24
+AG02410,Kristen,Allison,michael23@example.net,498-231-0348x25232,Sotheby's International,19,2.9,2024-12-02
